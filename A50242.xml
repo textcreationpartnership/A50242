@@ -1,0 +1,589 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A discussion of the lawfulness of a pastor's acting as an officer in other churches besides that which he is specially called to take the oversight of by the late Reverend Mr. Nathanael Mather.</title>
+            <author>Mather, Nathanael, 1631-1697.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1698</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 80 KB of XML-encoded text transcribed from 94 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A50242</idno>
+            <idno type="STC">Wing M1263</idno>
+            <idno type="STC">ESTC R37635</idno>
+            <idno type="EEBO-CITATION">16993154</idno>
+            <idno type="OCLC">ocm 16993154</idno>
+            <idno type="VID">105649</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A50242)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 105649)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1097:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A discussion of the lawfulness of a pastor's acting as an officer in other churches besides that which he is specially called to take the oversight of by the late Reverend Mr. Nathanael Mather.</title>
+                  <author>Mather, Nathanael, 1631-1697.</author>
+               </titleStmt>
+               <extent>[20], 155, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Nath. Hiller ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDCXCVIII [1698]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Advertisement: p. [1] at end.</note>
+                  <note>Reproduction of original in the Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Congregational churches --  Government.</term>
+               <term>Congregationalism.</term>
+               <term>Church polity.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:105649:1"/>
+            <pb facs="tcp:105649:1" rendition="simple:additions"/>
+            <p>A DISCUSSION Of the <hi>Lawfulneſs</hi> of a Paſtor's Acting as an <hi>OFFICER</hi> In Other <hi>Churches</hi> Beſides <hi>that</hi> which he is ſpecially Called to take the Overſight of.</p>
+            <p>By the late Reverend Mr. <hi>Nathanael Mather.</hi>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Nath. Hiller</hi> at the <hi>Princes Arms</hi> in <hi>Leaden-Hall</hi> Street, over againſt St. <hi>Mary Ax,</hi> MDCXCVIII.</p>
+         </div>
+         <div type="bookplate">
+            <pb facs="tcp:105649:2" rendition="simple:additions"/>
+            <p>
+               <figure>
+                  <p>Academiae Cantabrigiensis Liber.</p>
+                  <figDesc>bookplate</figDesc>
+               </figure>
+            </p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:105649:2"/>
+            <head>TO THE READER.</head>
+            <p>THat a <hi>Particu<g ref="char:EOLhyphen"/>lar Congrega<g ref="char:EOLhyphen"/>tional Church is an In<g ref="char:EOLhyphen"/>ſtitution of Chriſt,</hi> is clear in the Scriptures of the <hi>Old</hi> and <hi>New Te<g ref="char:EOLhyphen"/>ſtament:</hi> Which being granted, there must needs be ſomething <hi>pro<g ref="char:EOLhyphen"/>per</hi> and <hi>peculiar</hi> unto every ſuch Church, which is not <hi>common</hi> to another: For altho
+<pb facs="tcp:105649:3"/>every Church hath <hi>Mi<g ref="char:EOLhyphen"/>niſterial Officers</hi> and <hi>Ordinances,</hi> which are all of the ſame <hi>kind,</hi> yet they are not the ſame <hi>in<g ref="char:EOLhyphen"/>dividual</hi> Miniſtry and Ordinances, nor in <hi>com<g ref="char:EOLhyphen"/>mon;</hi> any more than the distinct Families of two Men, each of whom has a Wife, Children and Servants: One is not the Husband of the other's Wife, nor the Father of the other's Children, nor the Maſter of the other's Servants. And why ſhould we ſpeak or act
+<pb facs="tcp:105649:3"/>leſs rationally about a <hi>Spiritual Corporation</hi> or <hi>Society</hi> than about <hi>a Civil</hi> one? Will we al<g ref="char:EOLhyphen"/>low that the <hi>Maſter</hi> and <hi>Wardens,</hi> and <hi>Privi<g ref="char:EOLhyphen"/>ledges</hi> belonging to <hi>one</hi> Company, may be chal<g ref="char:EOLhyphen"/>lenged or borrowed by <hi>another?</hi> May the Fa<g ref="char:EOLhyphen"/>ther, Husband, Maſter of <hi>one</hi> Family he chal<g ref="char:EOLhyphen"/>lenged or borrowed by <hi>another?</hi> As this Hus<g ref="char:EOLhyphen"/>band, Father, Master is the proper and peculiar Right of this Family in a correlation; and this
+<pb facs="tcp:105649:4"/>Magistrate, Warden, Go<g ref="char:EOLhyphen"/>vernour is the peculiar Right by correlation to this <hi>Company</hi> or <hi>Cor<g ref="char:EOLhyphen"/>poration:</hi> So it is in <hi>Spiritual Fellowſhips;</hi> this Pastor, Elder or Deacon, with all his <hi>Office-power</hi> in Admi<g ref="char:EOLhyphen"/>nistrations, belongs to this Church, and to no other; ſo that he is <hi>their</hi> Officer, and related to <hi>them,</hi> and hath no right to administer or exerciſe his Office in any <hi>other</hi> Church, <hi>God being the God of</hi> Order, <hi>and not
+<pb facs="tcp:105649:4"/>of</hi> Confuſion, <hi>as in all the Churches of the Saints;</hi> for if God hath not confounded <hi>natural</hi> and <hi>civil</hi> relations, nei<g ref="char:EOLhyphen"/>ther hath he thoſe which are <hi>ſpiritual.</hi>
+            </p>
+            <p>Since <hi>Antichriſtia<g ref="char:EOLhyphen"/>niſm</hi> hath blinded the eyes of the Profeſſing World, the plainest Do<g ref="char:EOLhyphen"/>ctrines of Faith and Or<g ref="char:EOLhyphen"/>der have met with great Contradictions and Op<g ref="char:EOLhyphen"/>poſition; Yea, the minds of ſome who were greatly enlightned in matters of <hi>Faith,</hi> have been left un<g ref="char:EOLhyphen"/>der
+<pb facs="tcp:105649:5"/>much darkneſs about the matters of <hi>God's Houſe;</hi> the Church be<g ref="char:EOLhyphen"/>ing still, in a great mea<g ref="char:EOLhyphen"/>ſure, fed in a mystical and <hi>hidden</hi> State, and not yet come forth to a <hi>fulneſs</hi> of <hi>ſeparation</hi> from <hi>Antichriſtian</hi> en<g ref="char:EOLhyphen"/>tanglements and polluti<g ref="char:EOLhyphen"/>ons, as ſhe will when <hi>the Myſtery of God ſhall be finiſhed.</hi>
+            </p>
+            <p>And many who ſeem to have gone <hi>farther</hi> than others in the ac<g ref="char:EOLhyphen"/>knowledgment of Truths appertaining to the
+<pb facs="tcp:105649:5"/>Churches of Christ, and the <hi>Forms</hi> and <hi>Ordi<g ref="char:EOLhyphen"/>nances</hi> instituted by Him; yet for want of fuller Illumination, or being byaſs'd too much by <hi>Worldly Intereſt,</hi> and <hi>men-pleaſing</hi> com<g ref="char:EOLhyphen"/>pliance, have practiſed not only <hi>ſhort</hi> of the <hi>Rule,</hi> but alſo very <hi>un<g ref="char:EOLhyphen"/>groundedly</hi> and irregu<g ref="char:EOLhyphen"/>larly in theſe <hi>ſacred</hi> things: Not to mention more Instances than the particular <hi>Point</hi> which is learnedly and nervou<g ref="char:EOLhyphen"/>ſly <hi>diſcuſſed</hi> in this
+<pb facs="tcp:105649:6"/>
+               <hi>Treatiſe;</hi> Some even of the <hi>Congregational Perſuaſion</hi> having ex<g ref="char:EOLhyphen"/>tended the <hi>Communion of Churches</hi> beyond the Bounds which Christ hath ſet, by making it reach to <hi>Office-Power;</hi> have thereby fallen into a <hi>Miſtake,</hi> which is in it ſelf, destructive to the nature of a <hi>Spiritual Corporation:</hi> For if <hi>Miniſterial Power</hi> be communicable, why not the Priviledge of Church Memberſhip much more? And ſo he that Votes to
+<pb facs="tcp:105649:6"/>admit a Member in one Church, may alſo by vertue thereof, Vote in the admiſſion or rejecti<g ref="char:EOLhyphen"/>on of Members, or in the Election of Ministe<g ref="char:EOLhyphen"/>rial Officers <hi>all the World over,</hi> and then what becomes of <hi>parti<g ref="char:EOLhyphen"/>cular Churches</hi> and their Priviledges?</p>
+            <p>It is true, there is ſuch a thing as <hi>Com<g ref="char:EOLhyphen"/>munion of Churches</hi> in a Sisterly converſe and Entertainment of one another, whereby they allow of each others
+<pb facs="tcp:105649:7"/>Church State, without <hi>impoſing</hi> upon one ano<g ref="char:EOLhyphen"/>ther, or <hi>parting</hi> with any thing which is <hi>pro<g ref="char:EOLhyphen"/>per</hi> to themſelves alone, as <hi>Church-Member<g ref="char:EOLhyphen"/>ſhip</hi> and <hi>Office-power.</hi>
+            </p>
+            <p>It is one thing to <hi>partake</hi> of the benefit of Power, where it is du<g ref="char:EOLhyphen"/>ly and lawfully exer<g ref="char:EOLhyphen"/>ciſed; and another thing to <hi>exerciſe</hi> Power: A Man who is a Member of <hi>one Corporation,</hi> may come and ſue for his Right in <hi>another,</hi> or have any Friendly
+<pb facs="tcp:105649:7"/>Entertainment there; But the <hi>Mayor</hi> of one Corporation cannot come and ſit and act as a <hi>Magiſtrate</hi> in another <hi>Corporation:</hi> So the Pastor of a Church may <hi>partake</hi> of the Lord's Supper in a place where he hath no power to <hi>adminiſter</hi> it.</p>
+            <p>Christ's Commiſſion to a <hi>Paſtor</hi> reacheth no farther than the Charge undertaken by him and committed to him <hi>(feed the Flock over which the Holy Ghoſt hath
+<pb facs="tcp:105649:8"/>made thee Overſeer,)</hi> any more than that of the <hi>Riding</hi> Elder or <hi>Deacon.</hi>
+            </p>
+            <p>Again, He that <hi>ad<g ref="char:EOLhyphen"/>miniſters,</hi> doth it as an ordinary <hi>Brother,</hi> or as a <hi>Paſtor.</hi> If as a <hi>Bro<g ref="char:EOLhyphen"/>ther,</hi> then what becomes of the <hi>Paſtoral Office?</hi> Churches may do with<g ref="char:EOLhyphen"/>out it; And this will juſtifie the Irregular Practices of thoſe who call <hi>ordinary Brethren</hi> to adminiſter the Seals as they have occaſion. If he adminiſter as <hi>Pa<g ref="char:EOLhyphen"/>ſtor;</hi>
+               <pb facs="tcp:105649:8"/>it muſt be as Pastor of the Church whereto he belongs: and then <hi>one</hi> Church hath power to make a Church-Officer for <hi>another,</hi> and to chooſe and ſet a Pa<g ref="char:EOLhyphen"/>ſtor over it: Then al<g ref="char:EOLhyphen"/>ſo, where is <hi>co-ordi<g ref="char:EOLhyphen"/>nation of Churches?</hi> Then likewiſe, every <hi>particular Church</hi> hath power to chooſe a <hi>Ca<g ref="char:EOLhyphen"/>tholick</hi> Pastor, which is abſurd: And if the Choice of the <hi>Foreign Church</hi> do give power, then a Member of <hi>their
+<pb facs="tcp:105649:9"/>own</hi> might be a fitter Perſon for this Work, having power in the <hi>Church</hi> as a Member already, which the other has not. If he admi<g ref="char:EOLhyphen"/>niſter as a <hi>Paſtor</hi> in <hi>ſtanding</hi> Office to one <hi>Church,</hi> and <hi>occaſio<g ref="char:EOLhyphen"/>nal</hi> only to another; then there is more requi<g ref="char:EOLhyphen"/>red to make an <hi>occaſio<g ref="char:EOLhyphen"/>nal Officer</hi> than a <hi>ſtanding Paſtor:</hi> For there's but <hi>one Church</hi> required to the chooſing a <hi>ſtanding Paſtor,</hi> but <hi>two</hi> are requiſite to
+<pb facs="tcp:105649:9"/>chooſe an <hi>occaſional Paſtor;</hi> there needing the Choice of that <hi>Church</hi> only to which he is primarily related, to make him a <hi>ſtand<g ref="char:EOLhyphen"/>ing Paſtor;</hi> but beſides <hi>that,</hi> there muſt be the <hi>Choice</hi> of another <hi>Church</hi> to make him an <hi>occaſional</hi> Officer <hi>pro hic &amp; nunc.</hi>
+            </p>
+            <p>But I ſhall not en<g ref="char:EOLhyphen"/>large upon this, nor need I, it being the Subject of the <hi>enſuing Diſcourſe,</hi> where it is ſtrenuouſly, yet modeſtly
+<pb facs="tcp:105649:10"/>and calmly argued and clear'd, which I recom<g ref="char:EOLhyphen"/>mend to the Conſideration of the <g ref="char:V">Ʋ</g>nprejudiced and Impartial Inquirer after <hi>Truth.</hi> It was Wrote long ſince, and Correc<g ref="char:EOLhyphen"/>ted and fitted for the <hi>Preſs</hi> by the late Re<g ref="char:EOLhyphen"/>verend and Pious <hi>Au<g ref="char:EOLhyphen"/>thor,</hi> whoſe Name it bears; Occaſioned by the irregular Practice of ſome <hi>Church</hi> or <hi>Churches</hi> who called in <hi>Neighbouring Paſtors</hi> to adminiſter the Lords Supper to them when
+<pb facs="tcp:105649:10"/>they had none of their own. <g ref="char:V">Ʋ</g>pon the like Practices here of late, and at the deſire of ſome Friends who had ſeen it, He intended to have <hi>Printed</hi> it had he lived; Which <hi>Intention</hi> of his is Warrant ſufficient to Publiſh it ſince his <hi>Death;</hi> and indeed, nei<g ref="char:EOLhyphen"/>ther <hi>it,</hi> nor the <hi>Author</hi> need any Epiſtle Recom<g ref="char:EOLhyphen"/>mendatory: This <hi>Tract</hi> is able to ſpeak for it ſelf; and as for <hi>Him,</hi> his Name and Memory are ſavoury and precious in more Nations than One.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:105649:11"/>
+            <pb facs="tcp:105649:11"/>
+            <head>
+               <hi>A Diſcuſſion,</hi> &amp;c. <hi>Or, A DISPUTE Upon theſe</hi> Two Queſtions:
+<list>
+                  <item>
+                     <hi>Queſtion I.</hi> WHether a Paſtor of the Church at <hi>Corinth</hi> may Ad<g ref="char:EOLhyphen"/>miniſter the Lord's Sup<g ref="char:EOLhyphen"/>per in the Church at <hi>Cenchrea?</hi>
+                  </item>
+                  <item>
+                     <pb n="2" facs="tcp:105649:12"/>
+                     <hi>Queſtion II.</hi> Whether may a Mem<g ref="char:EOLhyphen"/>ber of the Church at <hi>Cenchrea</hi> partake of the Lord's Supper ad<g ref="char:EOLhyphen"/>miniſtred there, by a Pa<g ref="char:EOLhyphen"/>ſtor of the Church at <hi>Corinth;</hi> himſelf not being clear whether this act of the Paſtor of the Church at <hi>Corinth</hi> be not unwarrantable?</item>
+               </list>
+            </head>
+            <p>
+               <hi>Anſwer:</hi>
+            </p>
+            <p>I conceive neither the one nor the other
+<pb n="3" facs="tcp:105649:12"/>to be according to the <hi>Rule;</hi> but both the ad<g ref="char:EOLhyphen"/>miniſtration of the Pa<g ref="char:EOLhyphen"/>ſtor of <hi>Corinth</hi> in the Church of <hi>Cenchrea,</hi> and the communicat<g ref="char:EOLhyphen"/>ing of ſuch a Member of the Church of <hi>Cen<g ref="char:EOLhyphen"/>chrea</hi> in the Supper, ſo adminiſtred there, to be ſinful.</p>
+            <p>I ſhall firſt enquire into the lawfulneſs of the Paſtor of <hi>Corinth</hi>'s Adminiſtration of the Supper in the Church of <hi>Cenchrea.</hi>
+            </p>
+            <p>
+               <pb n="4" facs="tcp:105649:13"/>There are Three <hi>Points,</hi> the Conſidera<g ref="char:EOLhyphen"/>tion whereof will not be impertinent for the clearing of the preſert Caſe, <hi>viz.</hi>
+            </p>
+            <list>
+               <item>I. <hi>Concerning</hi> Office <hi>and</hi> Office-Power <hi>in the Church.</hi>
+               </item>
+               <item>II. <hi>Concerning</hi> Com<g ref="char:EOLhyphen"/>munion <hi>of Churches.</hi>
+               </item>
+               <item>III. <hi>Concerning the</hi> ſtrict invariableneſs of the Rule <hi>given by Chriſt to his Churches, about all the affairs and walking thereof; and the</hi> indiſpenſible obligati<g ref="char:EOLhyphen"/>on
+<pb n="5" facs="tcp:105649:13"/>
+                  <hi>that lies upon them in no Caſe to ſwerve therefrom.</hi>
+               </item>
+            </list>
+            <div n="1" type="point">
+               <head>POINT I. <hi>Touching Church</hi>-Office <hi>and</hi> Power.</head>
+               <p>To be an Officer in the Church is to be Chriſt's <hi>Subſtitute,</hi> and in his Stead, not only by the Diſpenſation and Diſpoſal of Pro<g ref="char:EOLhyphen"/>vidence, but by a ſpe<g ref="char:EOLhyphen"/>cial Conſtitution and <hi>Commiſſion</hi> from <hi>Chriſt</hi>
+                  <pb n="6" facs="tcp:105649:14"/>in the way of an <hi>Inſti<g ref="char:EOLhyphen"/>tuted Ordinance.</hi> It is, I ſay, to be the <hi>Subſti<g ref="char:EOLhyphen"/>tute,</hi> and in the ſtead of Chriſt unto the Church, for ſuch things as are within the <hi>Officer</hi>'s Commiſſi<g ref="char:EOLhyphen"/>on.</p>
+               <p>Hence <hi>Office</hi> and <hi>Office-power</hi> is not a thing of a <hi>ſimple, ab<g ref="char:EOLhyphen"/>ſolute</hi> Nature; and thence, is not an <hi>inde<g ref="char:EOLhyphen"/>lible</hi> Character imprin<g ref="char:EOLhyphen"/>ted on him that is an <hi>Officer,</hi> which he car<g ref="char:EOLhyphen"/>ries ingraven on him
+<pb n="7" facs="tcp:105649:14"/>go he where he will: This is a <hi>Myſterious no<g ref="char:EOLhyphen"/>thing</hi> devis'd and much argued about by the idle and curious Brains of thoſe that reaped Profit by the Fiction: But it is a Spiritual <hi>Relation</hi> (to which the <hi>Inſtitution</hi> of <hi>Chriſt</hi> gives a Being) and a Right, Authority or Power correſpondent thereunto. And hence, it hath a double Ob<g ref="char:EOLhyphen"/>ject by which it is li<g ref="char:EOLhyphen"/>mited and terminated, namely, the <hi>Church</hi>
+                  <pb n="8" facs="tcp:105649:15"/>and the <hi>Acts</hi> proper to the Office.</p>
+               <p>
+                  <hi>First,</hi> The Officer, as an Officer, is a <hi>corre<g ref="char:EOLhyphen"/>late</hi> to <hi>that Church</hi> o<g ref="char:EOLhyphen"/>ver which the Holy Ghoſt hath ſet him; but beyond <hi>that</hi> Church, his relation as an Offi<g ref="char:EOLhyphen"/>cer extendeth not at all to others, over which the Holy Ghoſt hath not ſet him. The nature of <hi>Relates</hi> is ſuch as that they mu<g ref="char:EOLhyphen"/>tually give and receive <hi>Being</hi> from each other; and thence the one is
+<pb n="9" facs="tcp:105649:15"/>not a Relate but with reference to the other. And hence, remove that Reference, and you take away its be<g ref="char:EOLhyphen"/>ing, and conſequent<g ref="char:EOLhyphen"/>ly cut off and inter<g ref="char:EOLhyphen"/>cept all its Operations as ſuch; for that which hath no <hi>Being</hi> can put forth no <hi>Ope<g ref="char:EOLhyphen"/>ration.</hi>
+               </p>
+               <p>Hence it follows, That the Officer of a Church hath no being as an Officer, but in the Church, and whol<g ref="char:EOLhyphen"/>ly with reference to it.
+<pb n="8" facs="tcp:105649:16"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="9" facs="tcp:105649:16"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="10" facs="tcp:105649:17"/>The Language of the Holy Ghoſt concern<g ref="char:EOLhyphen"/>ing ordinary Officers is conſtantly ſuch as holds forth this. They are ſaid to be <hi>ſet</hi> in the Flock, <hi>Acts</hi> 20.28. And they are to look to the <hi>whole</hi> Flock that they have <hi>relation</hi> to as Officers. <hi>All</hi> the Flock, <hi>ibid.</hi> So <hi>Heb.</hi> 13.7, 17. <hi>Your</hi> Guides — <hi>your</hi> Rulers, not others; <hi>that have rule over you,</hi> not over <hi>others.</hi>
+               </p>
+               <p>Both the Officer's
+<pb n="11" facs="tcp:105649:17"/>power and perſon as an <hi>Officer,</hi> relate to that particular Flock or Church in which the Holy Choſt hath <hi>ſet</hi> him: Even as the Eye, or the like Or<g ref="char:EOLhyphen"/>gan in the Body, which is both a Member, and an Organ that hath a particular Office in the Body whereof it is a Member; but hath neither Member<g ref="char:EOLhyphen"/>ſhip nor Office out of its <hi>own</hi> body in ano<g ref="char:EOLhyphen"/>ther. The Eye in <hi>So<g ref="char:EOLhyphen"/>crates</hi>'s Head hath no
+<pb n="12" facs="tcp:105649:18"/>Office, nor is it a Member in <hi>Plato</hi>'s Head, nor can it ſee there. And thence, as the Body may poſſibly be without the Eyes, but then it is ſo far an <hi>un-organized</hi> body; yet the Eye hath no ſub<g ref="char:EOLhyphen"/>ſiſtence as an <hi>Organ</hi> (much leſs any action) out of the Body: So we read of Churches that ſometimes were without <hi>Officers, Acts</hi> 14.23. but never of ordinary <hi>Officers</hi> with<g ref="char:EOLhyphen"/>out Churches, or that
+<pb n="13" facs="tcp:105649:18"/>put forth any act of <hi>Office,</hi> ſave in thoſe <hi>particular</hi> Churches in which they were both <hi>Members</hi> and <hi>Officers.</hi> For <hi>Office</hi> in the <hi>Church</hi> is ſuper-induced and <hi>ingrafted,</hi> as I may ſay, upon <hi>Memberſhip, Rom.</hi> 12.4. and thence my <hi>Office</hi>-Relation and Power cannot be ex<g ref="char:EOLhyphen"/>tended to others than my <hi>Member</hi>-Relation toucheth and claſpeth hold upon. But the Paſtor of the Church of <hi>Corinth</hi> is
+<pb n="14" facs="tcp:105649:19"/>no Fellow-Member with the Members of any Church but that at <hi>Corinth,</hi> for by them only can he be Cenſured.</p>
+               <p>
+                  <hi>Secondly, Office-power</hi> correſponds to the Relation, and is limited according to it, as to the <hi>acts</hi> in which (as well as the <hi>perſons</hi> over whom) it is to be exerted. A Paſtor of a Church hath no Au<g ref="char:EOLhyphen"/>thority at all, by vir<g ref="char:EOLhyphen"/>tue of that his Office, to Fine or Impriſon,
+<pb n="15" facs="tcp:105649:19"/>or the like. Theſe are acts of Civil Authori<g ref="char:EOLhyphen"/>ty, <hi>his is ſpiritual,</hi> for ſuch is his relation, and thence his power is limited to <hi>ſpiritual</hi> acts. Therefore to i<g ref="char:EOLhyphen"/>magine Office-<hi>power,</hi> where there is no Of<g ref="char:EOLhyphen"/>fice-<hi>Relation,</hi> or to al<g ref="char:EOLhyphen"/>low <hi>acts</hi> of Office, and yet to deny <hi>Office-power,</hi> is to build Caſtles in the Air, and frame an imagination that overthrows it ſelf.</p>
+               <p>
+                  <hi>Again,</hi> All Church Offices are alike as to
+<pb n="16" facs="tcp:105649:20"/>the <hi>extent</hi> of their pow<g ref="char:EOLhyphen"/>er; for their power a<g ref="char:EOLhyphen"/>riſeth from their Of<g ref="char:EOLhyphen"/>fice-relation to the Church, therefore one Officer is related to no more Churches than another; he hath no more Office-power in other Churches than another Officer hath. The Deacon of the Church at <hi>Corinth</hi> is related <hi>as Deacon</hi> to that Church, and none elſe but that: Even ſo is the <hi>Paſtor.</hi> The difference between the
+<pb n="17" facs="tcp:105649:20"/>
+                  <hi>Offices</hi> of the Church lieth not at all in the <hi>extent</hi> of one to other <hi>perſons</hi> more than the other; but in the dif<g ref="char:EOLhyphen"/>ferent <hi>work</hi> that the different Officers have alotted to them with reſpect to the ſame perſons. The Ruler is to attend with dili<g ref="char:EOLhyphen"/>gence to the Rule of the <hi>ſame</hi> Perſons or Church, and the Dea<g ref="char:EOLhyphen"/>con to receive and faithfully diſpoſe the Temporal things com<g ref="char:EOLhyphen"/>mitted to him of the
+<pb n="10" facs="tcp:105649:21"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="11" facs="tcp:105649:21"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="12" facs="tcp:105649:22"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="13" facs="tcp:105649:22"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="14" facs="tcp:105649:23"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="15" facs="tcp:105649:23"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="16" facs="tcp:105649:24"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="17" facs="tcp:105649:24"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="18" facs="tcp:105649:25"/>
+                  <hi>ſame</hi> Church that the Paſtor is to adminiſter a Word of Wiſdom to, and the Teacher a Word of Knowledge. The Scripture no where gives any the leaſt intimation of a Difference between them in this regard.</p>
+               <p>To iſſue this Point about <hi>Church-Office.</hi>
+               </p>
+               <p>The <hi>whole</hi> of the power of <hi>Office</hi> is of equal extent with any one <hi>part</hi> thereof, as to the Perſons over whom it is to be exerciſed. If
+<pb n="19" facs="tcp:105649:25"/>
+                  <hi>Archippus</hi> may put forth <hi>one</hi> act of his Office to all the Church at <hi>Coloſs,</hi> or to other perſon beſides, he may alſo put forth <hi>other</hi> acts. If he may, as a <hi>Paſtor,</hi> feed all or any with a Word of Wiſdom, none of thoſe who are under his Charge for <hi>that,</hi> may be exempted from un<g ref="char:EOLhyphen"/>der his power as to <hi>Rule.</hi> If he may <hi>rule</hi> more Churches than one, he may <hi>adminiſter the Lord's Supper</hi> to
+<pb n="20" facs="tcp:105649:26"/>more than one. If the Lord Jeſus hath put the Church of <hi>Cen<g ref="char:EOLhyphen"/>chrea</hi> in the Commiſſi<g ref="char:EOLhyphen"/>on of the <hi>Paſtor</hi> of the Church of <hi>Corinth</hi> for <hi>one</hi> act proper to his Office, he hath al<g ref="char:EOLhyphen"/>ſo for <hi>all other</hi> Office<g ref="char:EOLhyphen"/>acts. Yea, and then all the Churches of <hi>Achaia</hi> are no more exempted than the Church of <hi>Cenchrea;</hi> And where we ſhall ſtop I know not, till we have made him an <hi>
+                     <g ref="char:V">Ʋ</g>niverſal Pastor,</hi> or
+<pb n="21" facs="tcp:105649:26"/>
+                  <hi>Biſhop Oecumenical,</hi> and ſo ſet him up to juſtle with the Old Gentle<g ref="char:EOLhyphen"/>man at <hi>Rome;</hi> who (of the two) hath the better Title to it, ha<g ref="char:EOLhyphen"/>ving both <hi>Phocas</hi> his Grant, and <hi>actual poſ<g ref="char:EOLhyphen"/>ſeſſion</hi> ſome Years a<g ref="char:EOLhyphen"/>bove a Thouſand.</p>
+               <p>Of the foregoing Premiſes (before I paſs on to the <hi>Second Point</hi> to be conſidered) I ſhall make a double Improvement.</p>
+               <p n="1">I. <hi>Briefly deduce
+<pb n="22" facs="tcp:105649:27"/>ſome</hi> Arguments <hi>con<g ref="char:EOLhyphen"/>cluding the</hi> Queſtion.</p>
+               <p n="2">II. <hi>Return an Anſwer to ſome</hi> Objections.</p>
+               <p>Firſt, <hi>Some Argu<g ref="char:EOLhyphen"/>ments concluding the</hi> Queſtion.</p>
+               <p>
+                  <hi>Argument</hi> I. That comes firſt to Hand which was laſt touch<g ref="char:EOLhyphen"/>ed upon. The Paſtor of the Church at <hi>Co<g ref="char:EOLhyphen"/>rinth</hi> may not <hi>admini<g ref="char:EOLhyphen"/>ſter the Lord's Supper</hi> where he may not <hi>Rule or Govern:</hi> But
+<pb n="23" facs="tcp:105649:27"/>he may not <hi>Govern</hi> in the Church of <hi>Cen<g ref="char:EOLhyphen"/>chrea;</hi> And therefore, not <hi>adminiſter the Sup<g ref="char:EOLhyphen"/>per there.</hi> I know no colour for it in the Word, That in <hi>admi<g ref="char:EOLhyphen"/>niſtring the Lord's Sup<g ref="char:EOLhyphen"/>per Archippus</hi> ſhould be Chriſt's <hi>Subſtitute,</hi> and in Chriſt's ſtead to the Church of <hi>Cen<g ref="char:EOLhyphen"/>chrea,</hi> but in <hi>nothing elſe;</hi> In all <hi>other</hi> mat<g ref="char:EOLhyphen"/>ters pertaining to <hi>Of<g ref="char:EOLhyphen"/>fice-power</hi> having no Authority over them from Chriſt. If he
+<pb n="24" facs="tcp:105649:28"/>be Commiſſioned and Deputed from Chriſt for the <hi>one,</hi> he is and muſt be alſo for the <hi>other.</hi>
+               </p>
+               <p>
+                  <hi>Argum.</hi> II. Where he may not put forth the power of a <hi>Mem<g ref="char:EOLhyphen"/>ber,</hi> he may not put forth the power of an <hi>Officer:</hi> But in the Church of <hi>Cenchrea</hi> the Paſtor of the Church of <hi>Corinth</hi> may not put forth the power of a <hi>Member,</hi> Suppoſe in Voting,
+<pb n="25" facs="tcp:105649:28"/>Judging, Admitting, Calling an <hi>Officer,</hi> or the like.</p>
+               <p>It ſeems unreaſo<g ref="char:EOLhyphen"/>nable and incongru<g ref="char:EOLhyphen"/>ous, that where he is not <hi>ſubject</hi> as a Mem<g ref="char:EOLhyphen"/>ber, he ſhould have the Priviledge to ex<g ref="char:EOLhyphen"/>ert the <hi>power</hi> of a <hi>Member.</hi> And if not the power of a <hi>Mem<g ref="char:EOLhyphen"/>ber,</hi> much leſs the power of an <hi>Officer:</hi> But in Adminiſtring the Lord's Supper he puts forth the power of an <hi>Officer,</hi> doing that
+<pb n="26" facs="tcp:105649:29"/>which none but an <hi>Officer</hi> may do.</p>
+               <p>
+                  <hi>Arg.</hi> III. <hi>Ruling Elders</hi> may as lawful<g ref="char:EOLhyphen"/>ly, and with as much Right, put forth the acts of their Office, as a <hi>Paſtor</hi> do any acts of his <hi>Office,</hi> in other Churches beſides <hi>that</hi> to which they have ſpecial <hi>Office-Relati<g ref="char:EOLhyphen"/>on;</hi> for they are <hi>both</hi> ſet in the <hi>body</hi> alike, he that <hi>ruleth,</hi> and he that <hi>Exhorteth, Rom.</hi> 12. But the <hi>Ruling</hi>-Elders
+<pb n="27" facs="tcp:105649:29"/>of <hi>Corinth</hi> may <hi>not rule</hi> over the <hi>Church</hi> of <hi>Cenchrea,</hi> and there<g ref="char:EOLhyphen"/>fore neither may the <hi>Paſtor</hi> of <hi>Corinth</hi> ad<g ref="char:EOLhyphen"/>miniſter the Lord's Supper, there.</p>
+               <p>
+                  <hi>Arg.</hi> IV. Where a Man hath no <hi>Office-power,</hi> he may do <hi>no Office-acts;</hi> He is elſe a <hi>Buſie-body,</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 1 <hi>Pet.</hi> 4.15. There is ſuch a neceſſary and innate <hi>alliance</hi> and <hi>con<g ref="char:EOLhyphen"/>nexion</hi> between Office-<hi>power</hi> and Office-<hi>acts,</hi>
+                  <pb n="28" facs="tcp:105649:30"/>as that the latter can<g ref="char:EOLhyphen"/>not be orderly put forth but by virtue of the former: But the Paſtor of the Church of <hi>Corinth</hi> hath no Office-<hi>power</hi> in the Church of <hi>Cenchrea;</hi> for he is none of their Officer; for he was never Called or Cho<g ref="char:EOLhyphen"/>ſen by them; they ne<g ref="char:EOLhyphen"/>ver ſubmitted them<g ref="char:EOLhyphen"/>ſelves to him; the Ho<g ref="char:EOLhyphen"/>ly Ghoſt never ſet him over them: None but <hi>Members</hi> in <hi>Cen<g ref="char:EOLhyphen"/>chrea</hi> can have any <hi>Of<g ref="char:EOLhyphen"/>fice</hi>
+                  <pb n="29" facs="tcp:105649:30"/>there, <hi>Rom.</hi> 12.4. 'Tis only <hi>Members</hi> that have any <hi>Office</hi> (ſo we render it, the <hi>Greek</hi> Word ſignifies alſo <hi>action</hi> or <hi>operati<g ref="char:EOLhyphen"/>on</hi>) in the Body. But the Paſtor of the Church of <hi>Corinth</hi> is no <hi>Member</hi> in the Church of <hi>Cenchrea: He</hi> is no more a Mem<g ref="char:EOLhyphen"/>ber there than <hi>any other</hi> Member is; for the <hi>Paſtor</hi>'s Member<g ref="char:EOLhyphen"/>ſhip, and a <hi>private</hi> Members Memberſhip are not at all diffe<g ref="char:EOLhyphen"/>rent.
+<pb n="30" facs="tcp:105649:31"/>The Members of <hi>Corinth</hi> are not Members in <hi>Cenchrea,</hi> for the Members make up the whole, contri<g ref="char:EOLhyphen"/>buting and containing in them all the eſſenti<g ref="char:EOLhyphen"/>al cauſes, <hi>viz.</hi> both <hi>matter</hi> and <hi>form</hi> of the whole: If therefore the Members of the one were Members of the other, the Church<g ref="char:EOLhyphen"/>es muſt be both one, and not two diſtinct Churches: And then when <hi>Sardis</hi> is dead, and <hi>Laodicea</hi> luke<g ref="char:EOLhyphen"/>warm,
+<pb n="31" facs="tcp:105649:31"/>
+                  <hi>Philadelphia</hi> is ſo too. If the Limbs and Members of <hi>Alex<g ref="char:EOLhyphen"/>ander</hi> be the Members of <hi>Ariſtotle;</hi> when <hi>A<g ref="char:EOLhyphen"/>lexander</hi> rides, <hi>Ariſtotle</hi> is in the Saddle too. The Paſtor therefore of <hi>Corinth</hi> is no Mem<g ref="char:EOLhyphen"/>ber in <hi>Cenchrea,</hi> and if no Member no Of<g ref="char:EOLhyphen"/>ficer, and if no Offi<g ref="char:EOLhyphen"/>cer he hath no Office-power, and therefore may do no Office-act there, ſuch as admini<g ref="char:EOLhyphen"/>ſtring the Lord's Sup<g ref="char:EOLhyphen"/>per is.</p>
+               <p>
+                  <pb n="32" facs="tcp:105649:32"/>
+                  <hi>Arg.</hi> V. If the Pa<g ref="char:EOLhyphen"/>ſtor of the Church of <hi>Corinth</hi> may admini<g ref="char:EOLhyphen"/>ſter the Lord's Supper in the Church of <hi>Cen<g ref="char:EOLhyphen"/>chrea,</hi> he hath a right or <hi>authority</hi> to do it. If he have Authority to do it, he may <hi>re<g ref="char:EOLhyphen"/>quire</hi> the Church to receive it at his hands, and the Church may not <hi>refuſe</hi> it: Yea, and this though the proper Paſtor of <hi>Cen<g ref="char:EOLhyphen"/>chrea</hi> were living, and preſent with them. For
+<pb n="33" facs="tcp:105649:32"/>the Death or Abſence of the Paſtor of the Church of <hi>Cenchrea</hi> gives the Paſtor of the Church of <hi>Corinth</hi> no more power or <hi>right</hi> in the Church of <hi>Cen<g ref="char:EOLhyphen"/>chrea</hi> than he had be<g ref="char:EOLhyphen"/>fore. Right to put forth an act of Office, and Authority to require ſubmiſſion to that act are inſeparable: He that may grant a Warrant, hath Au<g ref="char:EOLhyphen"/>thority to require O<g ref="char:EOLhyphen"/>bedience to it. The Church of <hi>Cenchrea</hi>
+                  <pb n="34" facs="tcp:105649:33"/>may refuſe ever to re<g ref="char:EOLhyphen"/>ceive the Supper ad<g ref="char:EOLhyphen"/>miniſtred by the Pa<g ref="char:EOLhyphen"/>ſtor or the Church of <hi>Corinth,</hi> and not ſin in ſo doing; and there<g ref="char:EOLhyphen"/>fore he hath no Au<g ref="char:EOLhyphen"/>thority to require it. And if no Authority to require their re<g ref="char:EOLhyphen"/>ceiving, he hath no right himſelf to admi<g ref="char:EOLhyphen"/>niſter it to them. For Right to Adminiſter, ſuppoſeth him to be Chriſt's Subſtitute, Commiſſioned from him for ſuch Admi<g ref="char:EOLhyphen"/>niſtration;
+<pb n="35" facs="tcp:105649:33"/>But to be Chriſt's Subſtitute, Commiſſioned by him, muſt needs infer an Authority and Power to require in Chriſt's Name, attendance up<g ref="char:EOLhyphen"/>on ſuch an Admini<g ref="char:EOLhyphen"/>ſtration whereto he is by Chriſt Commiſſi<g ref="char:EOLhyphen"/>oned.</p>
+               <p>
+                  <hi>Arg.</hi> VI. Without Power given him from <hi>Christ,</hi> the Paſtor of the Church of <hi>Corinth</hi> may not adminiſter the Supper in the Church
+<pb n="36" facs="tcp:105649:34"/>of <hi>Cenchrea:</hi> For no Man ſhould bleſs and ſeparate the Elements, ſo as from Common to make them Sacra<g ref="char:EOLhyphen"/>mental, unleſs he have Power or Authority given him from <hi>Chriſt</hi> ſo to do; for whate<g ref="char:EOLhyphen"/>ver is done of this kind, muſt be done in the Name of <hi>Christ,</hi> whoſe Work alone it is, by his poor Mini<g ref="char:EOLhyphen"/>ſter as his Subſtitute and Inſtrument to pro<g ref="char:EOLhyphen"/>duce and really effect that Special Union
+<pb n="37" facs="tcp:105649:34"/>which there truly is in the Sacrament be<g ref="char:EOLhyphen"/>tween the Elements and his Body and Bloud. Chriſt doth not now ſeparate and bleſs the Bread and Wine amongſt us im<g ref="char:EOLhyphen"/>mediately in his own Perſon: If it be done therefore, it ſhould be done by one that is Chriſt's <hi>ſubſtitute,</hi> and Commiſſioned by him thereunto. If therefore, a Man have not Commiſſion and Authority from <hi>Chriſt</hi>
+                  <pb n="38" facs="tcp:105649:35"/>to do it, he may not do it.</p>
+               <p>But the Paſtor of the Church of <hi>Corinth</hi> hath no Power or Au<g ref="char:EOLhyphen"/>thority given him from <hi>Chriſt,</hi> to adminiſter the Supper in the Church of <hi>Cenchrea.</hi> He can have none from Chriſt but what he hath by the Church; but he hath none by the Church, and there<g ref="char:EOLhyphen"/>fore none from Chriſt.</p>
+               <p>He hath none by the Church of <hi>Corinth,</hi> for they can give him
+<pb n="39" facs="tcp:105649:35"/>no power for any acti<g ref="char:EOLhyphen"/>on in <hi>another</hi> Church: He hath none by the Church of <hi>Cenchrea,</hi> for they do not Call him to Office amongſt them: And there<g ref="char:EOLhyphen"/>fore he hath none at all, for theſe are the two only Churches from whom any thing can be pretended in this Caſe.</p>
+               <p>
+                  <hi>Arg.</hi> VII. If he may Adminiſter the Supper to and in the Church of <hi>Cenchrea,</hi> he
+<pb n="40" facs="tcp:105649:36"/>muſt alſo <hi>fulfil</hi> his Mi<g ref="char:EOLhyphen"/>niſtry towards that Church in <hi>all the other acts</hi> of his Miniſtry wherein the Church needs his help: For right to adminiſter the Supper ſuppoſeth Of<g ref="char:EOLhyphen"/>fice, but Office-relati<g ref="char:EOLhyphen"/>on inferreth Office-Bonds, Office being not a Power or <hi>Licence</hi> only, but carrying in it a <hi>Charge</hi> Command and Duty. But it is e<g ref="char:EOLhyphen"/>vident, the Paſtor of the Church of <hi>Corinth</hi> is not bound to fulfil
+<pb n="41" facs="tcp:105649:36"/>his Miniſtry towards the Church of <hi>Cen<g ref="char:EOLhyphen"/>chrea,</hi> he is not bound to Watch there, Rule there, Guide there, Labour in the Word and Doctrine there.</p>
+               <p>The <hi>other</hi> Officers of the Church of <hi>Corinth</hi> are bound to fulfil their Offices, in doing the reſpective work thereof to the Church of <hi>Cenchrea,</hi> as much as the <hi>Paſtor;</hi> and both they and he are as well bound to the <hi>other</hi> Churches in <hi>Achaia,</hi> as
+<pb n="42" facs="tcp:105649:37"/>to that at <hi>Cenchrea.</hi>
+               </p>
+               <p>
+                  <hi>Arg.</hi> VIII. If this adminiſtring the Sup<g ref="char:EOLhyphen"/>per in the Church of <hi>Cenchrea</hi> by the Paſtor of the Church of <hi>Co<g ref="char:EOLhyphen"/>rinth</hi> be Lawful and Warrantable, I de<g ref="char:EOLhyphen"/>mand, What is it that makes it ſo? It is plain he doth a <hi>ſpecial</hi> act, which none but Perſons impower'd and priviledged thereto may do; ſuch ſpecial acts muſt have ſome<g ref="char:EOLhyphen"/>thing for the ground
+<pb n="43" facs="tcp:105649:37"/>of them, indeed all acts muſt, elſe they are un<g ref="char:EOLhyphen"/>lawful. But there is nothing that can im<g ref="char:EOLhyphen"/>power the Paſtor of the Church of <hi>Corinth</hi> for thus acting in the Church of <hi>Cenchrea.</hi> It muſt be either his <hi>Gifts</hi> or his <hi>Grace,</hi> or his <hi>Ele<g ref="char:EOLhyphen"/>ction,</hi> or his <hi>Ordination:</hi> But none of theſe can give him <hi>power</hi> to ad<g ref="char:EOLhyphen"/>miniſter the <hi>Lord's Supper</hi> in <hi>Cenchrea.</hi>
+               </p>
+               <p>Not his <hi>Gifts</hi> nor <hi>Grace.</hi>] For then a Non-Officer might do
+<pb n="44" facs="tcp:105649:38"/>it. <hi>Grace</hi> gives <hi>ability</hi> only to do a thing ac<g ref="char:EOLhyphen"/>ceptably to <hi>God,</hi> as to the inward frame of the heart with which it is done; not any <hi>right</hi> to do lawfully any ex<g ref="char:EOLhyphen"/>ternal act which other<g ref="char:EOLhyphen"/>wife might not be done. <hi>Gifts</hi> only fur<g ref="char:EOLhyphen"/>niſh with ability for doing ſuch a thing, (whereto the Gifts are ſuited) unto <hi>others</hi> E<g ref="char:EOLhyphen"/>dification, but confer not a Right or Autho<g ref="char:EOLhyphen"/>rity whereby it may lawfully be done; for
+<pb n="45" facs="tcp:105649:38"/>then every one that hath equal Gifts muſt have equal Authority. Neither <hi>Gifts</hi> nor <hi>Grace</hi> make a Man Chriſt's <hi>Subſtitute</hi> to bleſs and ſanctifie Ele<g ref="char:EOLhyphen"/>ments in his Name, and make them Sacra<g ref="char:EOLhyphen"/>mental Signs of Chriſt and his Benefits. Pri<g ref="char:EOLhyphen"/>vate Members, yea Women have both Gifts and Grace; yet are not Chriſt's Subſti<g ref="char:EOLhyphen"/>tutes for ſuch an Ad<g ref="char:EOLhyphen"/>miniſtration.</p>
+               <p>Not his <hi>Election.</hi>]
+<pb n="46" facs="tcp:105649:39"/>The Church that chooſeth him, chooſ<g ref="char:EOLhyphen"/>eth him only for <hi>them<g ref="char:EOLhyphen"/>ſelves,</hi> not for <hi>other</hi> Churches; to be in Chriſt's ſtead amongſt <hi>them,</hi> not amongſt <hi>o<g ref="char:EOLhyphen"/>thers.</hi> For Chriſt hath not given them power to confer ſuch power on any Man, with re<g ref="char:EOLhyphen"/>ſpect to any others than themſelves: But each Church is betru<g ref="char:EOLhyphen"/>ſted with it by the Lord Chriſt for it ſelf. The Church of <hi>Corinth</hi> cannot ſubject the
+<pb n="47" facs="tcp:105649:39"/>Church of <hi>Cenchrea</hi> to <hi>their</hi> Paſtor; and there<g ref="char:EOLhyphen"/>fore cannot give him either Office-<hi>power,</hi> or power for any Office-<hi>act</hi> in the Church of <hi>Cenchrea;</hi> they may as well make him an Uni<g ref="char:EOLhyphen"/>verſal Paſtor over all the Churches in the whole World.</p>
+               <p>Not his <hi>Ordination.</hi>] For this preſuppoſeth, is grounded upon, and relates wholly to his <hi>Election;</hi> and thence gives not power of a larger extent than he
+<pb n="48" facs="tcp:105649:40"/>was called to in his <hi>E<g ref="char:EOLhyphen"/>lection.</hi>
+               </p>
+               <p>He is Ordained to no other than he was Choſen to; and there<g ref="char:EOLhyphen"/>fore, if in his Election he be not Choſen to act as an Officer in other Churches, his Ordination impowers him not at all thereun<g ref="char:EOLhyphen"/>to; He is not Choſen to one thing, and Or<g ref="char:EOLhyphen"/>dained to another. Or<g ref="char:EOLhyphen"/>dination, (be it a So<g ref="char:EOLhyphen"/>lemn inveſtiture of him with Office-power, or be it a Solemn Separa<g ref="char:EOLhyphen"/>tion
+<pb n="49" facs="tcp:105649:40"/>of him with ſup<g ref="char:EOLhyphen"/>poſed due Rites, and in due manner to his Work, yet it) ſo ne<g ref="char:EOLhyphen"/>ceſſarily and wholly relates to his Election, that he can receive no power thereby of <hi>lar<g ref="char:EOLhyphen"/>ger</hi> extent than in his Election he was called unto.</p>
+               <p>In ſum therefore, If neither his <hi>Gifts,</hi> nor <hi>Grace,</hi> nor <hi>Electi<g ref="char:EOLhyphen"/>on,</hi> nor <hi>Ordination</hi> be a juſt and ſufficient ground for the Paſtor of the Church of <hi>Co<g ref="char:EOLhyphen"/>rinth</hi>
+                  <pb n="50" facs="tcp:105649:41"/>his adminiſtring the Lord's Supper in the Church of <hi>Cenchrea</hi> there is no ſufficient ground at all for it: But in none of theſe is there a ſufficient ground for it, there<g ref="char:EOLhyphen"/>fore there is none at all. As to what may be pleaded by vertue of Communion of Churches, it ſhall be conſidered in the next <hi>Point.</hi>
+               </p>
+               <p>This ſhall ſerve for <hi>Arguments</hi> concluding
+<pb n="51" facs="tcp:105649:41"/>the <hi>Queſtion.</hi> There are ſome <hi>Objections</hi> that may receive their <hi>Anſwer</hi> from the Pre<g ref="char:EOLhyphen"/>miſes, and theſe come next to be conſidered.</p>
+               <p>Obj. 1. <hi>He is a</hi> Paſ<g ref="char:EOLhyphen"/>tor <hi>every where, and abides ſtill veſted with that</hi> Relation, <hi>and the Authority of it, even when he is in</hi> Cen<g ref="char:EOLhyphen"/>chrea, <hi>and not only when he is acting as a Paſtor in</hi> Corinth. <hi>'Tis not with a Church-Offi<g ref="char:EOLhyphen"/>cer as with the Ele<g ref="char:EOLhyphen"/>ments
+<pb n="52" facs="tcp:105649:42"/>in the Sacra<g ref="char:EOLhyphen"/>ments, which remain Sacred and Sacramental only while they are uſing in that Ordinance; but afterwards, and out of that uſe, what is left of the Bread or Wine is common.</hi>
+               </p>
+               <p>
+                  <hi>Anſ.</hi> True, he doth abide clothed with the Office of a <hi>Paſtor,</hi> even while he is at <hi>Cenchrea;</hi> even as the Lord Mayor of <hi>London</hi> a<g ref="char:EOLhyphen"/>bides Lord Mayor though he go into
+<pb n="53" facs="tcp:105649:42"/>
+                  <hi>Weſtminſter;</hi> yet he can put forth none of his power as <hi>Mayor</hi> whilſt he is there: So is the Paſtor of the Church of <hi>Corinth</hi> limited in the acts of his Office, as to the object of it, unto the particular Church of <hi>Corinth;</hi> Elſewhere, and unto others, he is but as a Private Perſon as to any Office-Authority or Power: As a Fa<g ref="char:EOLhyphen"/>ther abides a Father, when he is in another Man's Houſe; yet
+<pb n="54" facs="tcp:105649:43"/>hath no Paternal Au<g ref="char:EOLhyphen"/>thority over any Chil<g ref="char:EOLhyphen"/>dren but his own.</p>
+               <p>Yea, I will grant further, that the Paſtor of the Church of <hi>Co<g ref="char:EOLhyphen"/>rinth</hi> is to be honour<g ref="char:EOLhyphen"/>ed with ſingular eſ<g ref="char:EOLhyphen"/>teem by the Church of <hi>Cenchrea;</hi> not only for his eminent excel<g ref="char:EOLhyphen"/>ling in ſpiritual Gifts and Grace, but alſo becauſe the Lord Jeſus hath put honour upon him in calling him to ſuch a place, and veſt<g ref="char:EOLhyphen"/>ing him with ſuch an
+<pb n="55" facs="tcp:105649:43"/>Office in one of his Churches.</p>
+               <p>Nay, I will moreover yield the Paſtor of the Church of <hi>Corinth</hi> to be an Ordinance of God for good to all the Members of the Church of <hi>Cenchrea:</hi> So indeed he is in his feeding of the Church of <hi>Corinth</hi> with a Word of Wiſdom, to all the Inhabitants of that City, being a Veſ<g ref="char:EOLhyphen"/>ſel that carries preci<g ref="char:EOLhyphen"/>ous Treaſure, and
+<pb n="56" facs="tcp:105649:44"/>holds forth unto all that hear his Preach<g ref="char:EOLhyphen"/>ing the Word of Life.</p>
+               <p>And ſo is the Church it ſelf of <hi>Corinth,</hi> it be<g ref="char:EOLhyphen"/>ing the Pillar of Truth, and an Ordinance pro<g ref="char:EOLhyphen"/>vided and ſet up on purpoſe by the great God in the dark World for this very end, to diſplay his manifold Wiſdom in the Goſpel, and direct the loſt Sons of Men in the way of Commu<g ref="char:EOLhyphen"/>nion with God by Chriſt, and an Eternal
+<pb n="57" facs="tcp:105649:44"/>Enjoyment of him.</p>
+               <p>Yet it will not at all follow from hence, that the Church of <hi>Co<g ref="char:EOLhyphen"/>rinth</hi> may judge with Church-Cenſure the Men of the World that are <hi>without</hi> (the Apoſtle, 1 <hi>Cor.</hi> 5.12, 13. expreſly denies it) or Excommunicate the Members of the Church of <hi>Cenchrea,</hi> who are not of the ſame Lump and Body with them. No more will it follow that the Paſtor of the Church
+<pb n="58" facs="tcp:105649:45"/>of <hi>Corinth</hi> may do any Office-acts in the Church of <hi>Cenchrea,</hi> though he abide clo<g ref="char:EOLhyphen"/>thed with that Office, and in his holy Admi<g ref="char:EOLhyphen"/>niſtrations in the Church of <hi>Corinth</hi> be an Ordinance of God for their good, as far as Providence gives them an opportunity to partake of the be<g ref="char:EOLhyphen"/>nefit thereof. The Lord Mayor of <hi>London</hi> is the King's Officer, or Ordinance for good to all the Kingdom,
+<pb n="59" facs="tcp:105649:45"/>and therefore to all the Citizens of <hi>Briſtol,</hi> as far as they have occa<g ref="char:EOLhyphen"/>ſion to uſe his power, yet the Lord Mayor of <hi>London</hi> can do no act of his Office, nor put forth any of his Office-power within the City of <hi>Briſtol.</hi>
+               </p>
+               <p>Obj. 2. <hi>The Paſtor of</hi> Corinth <hi>may as lawful<g ref="char:EOLhyphen"/>ly adminiſter the Supper in the Church of</hi> Cen<g ref="char:EOLhyphen"/>chrea, <hi>as a Member of the Church of</hi> Cenchrea <hi>may partake in the Ad<g ref="char:EOLhyphen"/>miniſtration
+<pb n="60" facs="tcp:105649:46"/>of the Sup<g ref="char:EOLhyphen"/>per in the Church of</hi> Corinth.</p>
+               <p>
+                  <hi>Anſ.</hi> The Caſes are not parallel. There is a great deal of diffe<g ref="char:EOLhyphen"/>rence between a <hi>Mem<g ref="char:EOLhyphen"/>ber</hi>'s partaking, and a <hi>Paſtor's</hi> adminiſtring the Supper in another Church. For</p>
+               <p n="1">1. A Member in communicating is not Chriſt's <hi>Subſtitute,</hi> but is conſidered only as a Member of a particu<g ref="char:EOLhyphen"/>lar inſtituted Church,
+<pb n="61" facs="tcp:105649:46"/>whereof Chriſt is the Political Head.</p>
+               <p n="2">2. The Paſtor of <hi>Corinth</hi> is in his proper place where the Holy Ghoſt hath ſet him, when he is admini<g ref="char:EOLhyphen"/>ſtring the Supper <hi>there</hi> (which is more than can be ſaid when he is adminiſtring in <hi>Cen<g ref="char:EOLhyphen"/>chrea</hi>) and whom the Church rightly re<g ref="char:EOLhyphen"/>ceives to partake with them in that Ordi<g ref="char:EOLhyphen"/>nance, he cannot put back, nor may he for<g ref="char:EOLhyphen"/>bear his Duty upon that account.</p>
+               <p n="3">
+                  <pb n="62" facs="tcp:105649:47"/>3. There are In<g ref="char:EOLhyphen"/>ſtances and Grounds in Scripture, for a Member of <hi>one</hi> Church his being received and owned, and his com<g ref="char:EOLhyphen"/>municating in <hi>another</hi> Church <hi>Rom.</hi> 16.1, 2. <hi>Acts</hi> 20.4, 5, 6, 7. But there are none for a Paſtor's adminiſtring the Supper out of his own Church.</p>
+               <p n="4">4. Receiving the Supper is a <hi>Priviledge,</hi> Adminiſtring the Sup<g ref="char:EOLhyphen"/>per is an action where<g ref="char:EOLhyphen"/>in <hi>Office-power</hi> is exer<g ref="char:EOLhyphen"/>ted;
+<pb n="63" facs="tcp:105649:47"/>and hence agai they are vaſtly differ<g ref="char:EOLunhyphen"/>ent, and the one much more confined than the other: Receiving unto the Supper each others Members occa<g ref="char:EOLhyphen"/>ſionally, being but a proper expreſſion of <hi>Siſterly Communion</hi> be<g ref="char:EOLhyphen"/>tween Churches; when as Officers mutually acting as Officers in ſeveral Churches, im<g ref="char:EOLhyphen"/>plies a <hi>Coalition</hi> of the Churches into one; or at leaſt that they are both equally under his
+<pb n="64" facs="tcp:105649:48"/>Office-power. Sharing in a Priviledge, and putting forth of pow<g ref="char:EOLhyphen"/>er, do ſo much differ, as that in a private Member the one is much more limited and reſtrain'd than the other: A private Mem<g ref="char:EOLhyphen"/>ber of <hi>Corinth</hi> hath no Power or Right to Vote in another Church than that whereof he is a Mem<g ref="char:EOLhyphen"/>ber, for Excommuni<g ref="char:EOLhyphen"/>cation, Admiſſion, Cal<g ref="char:EOLhyphen"/>ling an Officer, or a<g ref="char:EOLhyphen"/>ny thing elſe of like
+<pb n="65" facs="tcp:105649:48"/>nature, wherein the Members of that Church are concer<g ref="char:EOLhyphen"/>ned to give Judg<g ref="char:EOLhyphen"/>ment, yet a Mem<g ref="char:EOLhyphen"/>ber of <hi>Corinth</hi> may there partake of the Lord's Supper. And ſuppoſe a Member, or Forty Members of <hi>Corinth</hi> ſhould Vote, being preſent in the Church of <hi>Cenchrea,</hi> when an Officer is Called, or a Member Received or Caſt out; their Vote, though concurring with the
+<pb n="66" facs="tcp:105649:49"/>Church of <hi>Cenchrea,</hi> would have no effici<g ref="char:EOLhyphen"/>ency, or cauſal infflu<g ref="char:EOLhyphen"/>ence at all, by virtue of any Inſtitution of Chriſt, to inſtate ſuch Perſon in Office-Pow<g ref="char:EOLhyphen"/>er, or to admit into, or caſt out from a Member-Relation. If therefore a Member of <hi>Corinth</hi>'s being admit<g ref="char:EOLhyphen"/>ted to partake of t he Supper in <hi>Cenchrea,</hi> will not infer his pow<g ref="char:EOLhyphen"/>er to Vote or paſs Judgment there; much leſs will it infer the
+<pb n="67" facs="tcp:105649:49"/>Paſtor of <hi>Corinth</hi>'s power to act as an Officer there.</p>
+               <p>Obj. 3. <hi>The Pa<g ref="char:EOLhyphen"/>ſtor of</hi> Corinth <hi>is an Officer of the Church</hi> Catholick, <hi>and he ad<g ref="char:EOLhyphen"/>miniſters the Lord's Supper to the Church of</hi> Cenchrea, <hi>as Members of the</hi> Catholick <hi>Church, not as ſuch a</hi> particular <hi>Churh.</hi>
+               </p>
+               <p>
+                  <hi>Anſ.</hi> 1. The Scrip<g ref="char:EOLhyphen"/>ture knows but two kinds of Churches,
+<pb n="68" facs="tcp:105649:50"/>
+                  <hi>viz, Myſtical</hi> and In<g ref="char:EOLhyphen"/>ſtituted.</p>
+               <p n="2">2. The <hi>Myſtical</hi> (conſiſting of all and only true Believers) hath neither Officers nor Ordinances ſeated in it, though both are deſigned for it princi<g ref="char:EOLhyphen"/>pally; but as <hi>it</hi> is, ſo all its <hi>priviledges</hi> are ſpiritual and inviſible, and not Diſpenced by Men, but by God him<g ref="char:EOLhyphen"/>ſelf. Nor indeed is it poſſible, <hi>That the Church</hi> Myſtical <hi>ſhould be the proper ſubject of
+<pb n="69" facs="tcp:105649:50"/>Ordinances diſpenſed by Mortal Men,</hi> becauſe then no Man could in Faith diſpenſe any Or<g ref="char:EOLhyphen"/>dinance to another; for no Man can make a Judgment of Faith or certain Knowledge, concerning anothers belonging to the <hi>My<g ref="char:EOLhyphen"/>ſtical</hi> Church. And hence, the Members of the Church of <hi>Cenchrea</hi> ſuppoſing them all Members of the Church <hi>Myſtical,</hi> yet as ſuch they are not Subjects nextly and
+<pb n="70" facs="tcp:105649:51"/>compleatly qualified for, and inſtituted to this Ordinance of the Lord's Supper; Nei<g ref="char:EOLhyphen"/>ther is the Paſtor of the Church at <hi>Corinth</hi> an Officer over them, for the <hi>Myſtical</hi> Church hath no Officers. And by the ſame reaſon, the Paſtor of <hi>Corinth</hi> may give the Lord's Supper to any that he judgeth Believers, where-ever he caſually lights on them.</p>
+               <p n="3">3. The <hi>Inſtiuted</hi> Church is no other
+<pb n="71" facs="tcp:105649:51"/>than a Particular Con<g ref="char:EOLhyphen"/>gregation or Church; ſuch as that at <hi>Corinth,</hi> and that at <hi>Cenchrea,</hi> which are parts of the general kind, and Inſtituted Churches themſelves; as <hi>Thomas</hi> and <hi>John</hi> are parts of Mankind, and Men themſelves. But look as <hi>John</hi>'s Eye is not ſet in <hi>Thomas</hi>'s Head, nor can it ſee there; ſo neither is the Officer of the Church of <hi>Co<g ref="char:EOLhyphen"/>rinth</hi> ſet in the Church at <hi>Cenchrea,</hi> nor can he
+<pb n="72" facs="tcp:105649:52"/>do any acts or Office there. For though all Officers in the gene<g ref="char:EOLhyphen"/>ral belong to the Church in the general, as all Hands belong to the Body of Mankind in the general, or Hu<g ref="char:EOLhyphen"/>mane Body; yet this and that particular or<g ref="char:EOLhyphen"/>dinary Officer belongs to this and that parti<g ref="char:EOLhyphen"/>cular Church, and to them only, as this and that Hand belong to this and that parti<g ref="char:EOLhyphen"/>cular Body. And there<g ref="char:EOLhyphen"/>fore the Paſtor of the
+<pb n="73" facs="tcp:105649:52"/>Church of <hi>Corinth</hi> is no more, nor other<g ref="char:EOLhyphen"/>wiſe an Officer of the <hi>Catholick</hi> Church, than my Hand or Eye is an Organ of <hi>Mankind;</hi> that is in ſhort, He is an Officer to the Church of <hi>Corinth,</hi> and to no other Church be<g ref="char:EOLhyphen"/>ſides that.</p>
+               <p n="4">4. If <hi>Catholick</hi> Church in this Obje<g ref="char:EOLhyphen"/>ction be taken in ano<g ref="char:EOLhyphen"/>ther Notion than either for the Church <hi>Myſti<g ref="char:EOLhyphen"/>cal,</hi> or for all particu<g ref="char:EOLhyphen"/>lar lar <hi>instituted</hi> Churches,
+<pb n="74" facs="tcp:105649:53"/>namely, for <hi>The whole body of viſible Bilievers throughout the World:</hi> I Anſwer (1.) There is no ſuch Church. For although the whole body of Believers throughout the World be ſo called in our common Speech (and complying with Cu<g ref="char:EOLhyphen"/>ſtom, we may notifie them by that Name) yet the Holy Ghoſt in Scripture, tells us of no ſuch Church. (2.) It was a piece of the <hi>Faith</hi> of the <hi>Congregational</hi>
+                  <pb n="75" facs="tcp:105649:53"/>Churches in the times of their Liberty, which they ſhall do well now not to depart from, that, <hi>Tho the whole bo<g ref="char:EOLhyphen"/>dy of viſible Be<g ref="char:EOLhyphen"/>lievers through<g ref="char:EOLhyphen"/>out the World are called the Ca<g ref="char:EOLhyphen"/>tholick Viſible Church,</hi>
+                  <note place="margin">Declar. at the <hi>Savoy,</hi> ch. 26. §. 2.</note> 
+                  <hi>and may be ſo called, yet it is not</hi> as ſuch, <hi>a Church intruſted with the adminiſtration of any Ordinances, nor hath it any Officers.</hi>
+               </p>
+               <p>And therefore the Paſtor of the Church
+<pb n="76" facs="tcp:105649:54"/>of <hi>Corinth</hi> cannot be an Officer to them, nor have the Mem<g ref="char:EOLhyphen"/>bers of the Church of <hi>Cenchrea,</hi> under that Notion <hi>as part of this Body,</hi> any Right or Title to have the Lord's Supper admi<g ref="char:EOLhyphen"/>niſtred amongſt them. (3.) The ſame Per<g ref="char:EOLhyphen"/>ſons ſay alſo expreſly, that, <hi>Beſides particular Churches</hi> (ſuch whoſe Conſtitution and Ga<g ref="char:EOLhyphen"/>thering they had be<g ref="char:EOLhyphen"/>fore deſcribed) <hi>there is not inſtituted by Chriſt
+<pb n="77" facs="tcp:105649:54"/>any Church more exten<g ref="char:EOLhyphen"/>ſive or Catho<g ref="char:EOLhyphen"/>lick,</hi>
+                  <note place="margin">Declar. at the <hi>Savoy Of the In<g ref="char:EOLhyphen"/>ſtitution of churches, and their Order,</hi> Prop. 6.</note> 
+                  <hi>entruſted with power for the adminiſtra<g ref="char:EOLhyphen"/>tion of his Or<g ref="char:EOLhyphen"/>dinances, or the execution of any Authority in his Name.</hi> If therefore there be no ſuch Church inſti<g ref="char:EOLhyphen"/>tuted by Chriſt, a Plea from it for the regula<g ref="char:EOLhyphen"/>rity of this Practice is altogether vain, being wholly Founded on that which is not. (4.) This Notion of
+<pb n="78" facs="tcp:105649:55"/>
+                  <hi>ſuch a kind of Catholick</hi> Church, undermines and overthrows at once all the Principles of the <hi>Congregational</hi> way and Practice; As will quickly appear to any that underſtands and will conſider it, and as they well know that are any thing acquain<g ref="char:EOLhyphen"/>ted with the Grounds and Writings of the different Parties in thoſe Points. But this Practice impleaded in this Diſpute, cannot ſtand without enter<g ref="char:EOLhyphen"/>taining
+<pb n="79" facs="tcp:105649:55"/>ſuch a Notion of a Church Catholick. This ſhould make us ſhy of it, ſince it leads to the overthrow and renunciation of what we once believed and built up by our Pro<g ref="char:EOLhyphen"/>feſſion and Practice; and engageth us to the owning of that which is inconſiſtent with all the Principles of our Perſuaſion, touching the Conſtitution of Churches, and the Or<g ref="char:EOLhyphen"/>der to be obſerved by them.</p>
+            </div>
+            <div n="2" type="point">
+               <pb n="80" facs="tcp:105649:56"/>
+               <head>POINT II. Touching Communion of Churches.</head>
+               <p n="1">I. Tho this Com<g ref="char:EOLhyphen"/>munion be partly founded in, and greatly ſuited to the Law of <hi>Nature,</hi> and Light of <hi>Reaſon;</hi> (to the Prin<g ref="char:EOLhyphen"/>ciples whereof the New Teſtament Inſtitutions offer no Violence) yet it is to be managed by the Light of the Rules of the <hi>Word;</hi> it being
+<pb n="81" facs="tcp:105649:56"/>brought under a ſpeci<g ref="char:EOLhyphen"/>al Inſtitution of Chriſt as many other things are, which even Natural Light goes a great way in approv<g ref="char:EOLhyphen"/>ing of, and leading to. Although therefore this or that particular Practice may ſeem a very fair and ſweet fruit of the Commun<g ref="char:EOLhyphen"/>ion of Churches; yet if it be deſtitute of all Ground and Warrant in the Word, ſuch Pra<g ref="char:EOLhyphen"/>ctice muſt be look'd upon as unlawful, be<g ref="char:EOLhyphen"/>cauſe
+<pb n="82" facs="tcp:105649:57"/>cauſe wanting a War<g ref="char:EOLhyphen"/>rant from the Holy Scriptures.</p>
+               <p n="2">II. Communion of Churches is for the help, preſervation and building up, not only of the ſeveral Saints in thoſe Churches conſi<g ref="char:EOLhyphen"/>dered <hi>ſeparately</hi> and ſingly; but firſtly and immediately of the Churches themſelves, as inſtituted <hi>Bodies</hi> or Societies, made up and conſiſting of Saints for that end joined toge<g ref="char:EOLhyphen"/>ther according to the
+<pb n="83" facs="tcp:105649:57"/>Lord. Hence it muſt needs follow, that whatever tends to the <hi>confounding</hi> of Church<g ref="char:EOLhyphen"/>es which in their Con<g ref="char:EOLhyphen"/>ſtitution are <hi>diſtinct</hi> and <hi>ſeveral,</hi> and ſhould be ſo preſerved invio<g ref="char:EOLhyphen"/>lably, is not a right ex<g ref="char:EOLhyphen"/>erciſe and improve<g ref="char:EOLhyphen"/>ment of the Communi<g ref="char:EOLhyphen"/>on of Churches, but a perverting thereof.</p>
+               <p n="3">III. Hence alſo it follows with an high hand, That though in communion of Church<g ref="char:EOLhyphen"/>es there be a ſingular
+<pb n="84" facs="tcp:105649:58"/>exerciſe of that love, which all Saints and Churches ought to have and ſhew one to another, as opportuni<g ref="char:EOLhyphen"/>ty for it is admini<g ref="char:EOLhyphen"/>ſtred; yet it is altoge<g ref="char:EOLhyphen"/>ther unwarrantable, for Churches walking in mutual Communion to <hi>coaleſce</hi> into, and make up a new Inſtituted Body, of which they ſhould <hi>all</hi> be Members. For tho they ought to walk in love and com<g ref="char:EOLhyphen"/>munion one with ano<g ref="char:EOLhyphen"/>ther, yet they are there<g ref="char:EOLhyphen"/>in
+<pb n="85" facs="tcp:105649:58"/>in limited by the Lord, and may not become Members one of ano<g ref="char:EOLhyphen"/>ther mutually; there being no <hi>Inſtitution</hi> of his to Warrant it, as there is for Saints be<g ref="char:EOLhyphen"/>coming one Body in a Church, and Members one of another by virtue thereof. Nor if ſeveral Churches ſhould agree ſo to make up one Body, would Chriſt be the Head of that Body, as he is of every Church or Body of his own In<g ref="char:EOLhyphen"/>ſtitution.</p>
+               <p n="4">
+                  <pb n="86" facs="tcp:105649:59"/>IV. As notwith<g ref="char:EOLhyphen"/>ſtanding Communion of Churches, both the ſeveral Churches as Bodies, and alſo the particular Members of each of them as Mem<g ref="char:EOLhyphen"/>bers, ought to be kept diſtinct; neither the ſeveral <hi>Churches,</hi> while they continue ſeveral Churches, running into one body; nor the <hi>Mem<g ref="char:EOLhyphen"/>bers</hi> of each becoming mutually Members of the other: So their ſeveral reſpective <hi>Of<g ref="char:EOLhyphen"/>ficers,</hi> and all the <hi>ad<g ref="char:EOLhyphen"/>miniſtrations</hi>
+                  <pb n="87" facs="tcp:105649:59"/>of them ought to be kept <hi>di<g ref="char:EOLhyphen"/>ſtinct,</hi> and appropriated according as the Lord hath ſet them: <hi>Offi<g ref="char:EOLhyphen"/>cers</hi> of Churches in Communion, being no more generally or mu<g ref="char:EOLhyphen"/>tually Officers to thoſe ſeveral Churches, than the <hi>Members</hi> of them are mutually <hi>Members.</hi>
+               </p>
+               <p>From the premiſed Conſiderations touch<g ref="char:EOLhyphen"/>ing Communion of Churches, ſeveral <hi>Rea<g ref="char:EOLhyphen"/>ſonings</hi> concluding the
+<pb n="88" facs="tcp:105649:60"/>
+                  <hi>Queſtion</hi> might be de<g ref="char:EOLhyphen"/>duced: But all the Improvement that I ſhall make of them, is only to anſwer ſome <hi>Objections</hi> ariſing from <hi>miſ-apprehenſions</hi> about the preſent Subject, <hi>Communion of Churches.</hi>
+               </p>
+               <p>Obj. 1. <hi>The Paſtor of the Church of</hi> Co<g ref="char:EOLhyphen"/>rinth <hi>may lawfully ad<g ref="char:EOLhyphen"/>miniſter the Supper in the Church of</hi> Cenchrea <hi>by vertue of</hi> Communi<g ref="char:EOLhyphen"/>on of Churches, <hi>as well as act as an</hi> Officer <hi>in a</hi>
+                  <pb n="89" facs="tcp:105649:60"/>Synod <hi>where the Meſ<g ref="char:EOLhyphen"/>ſengers and Elders of Churches that walk in Communion meet.</hi>
+               </p>
+               <p>
+                  <hi>Anſ.</hi> Notwithſtand<g ref="char:EOLhyphen"/>ing Communion of Churches, he may not lawfully adminiſter the Supper in <hi>Cenchrea.</hi>
+               </p>
+               <p n="1">1. Communion of Churches enlargeth not the <hi>object</hi> and <hi>li<g ref="char:EOLhyphen"/>mits</hi> of the reſpective Officers Power. <hi>Such</hi> Communion Churches may not have; it would rather be <hi>Confuſion,</hi> and prejudice both the
+<pb n="90" facs="tcp:105649:61"/>Priviledges and entire<g ref="char:EOLhyphen"/>neſs of each of them. <hi>Communion of Churches</hi> extends not to the ſub<g ref="char:EOLhyphen"/>jecting of <hi>Churches</hi> to each others Officers, any more than to the ſubjecting of particul<g ref="char:EOLhyphen"/>ar <hi>Members</hi> to other Churches than their own. The <hi>Church</hi> of <hi>Corinth</hi> may as well by virtue of Communion of Churches Cenſure and Caſt out a Mem<g ref="char:EOLhyphen"/>ber of. <hi>Cenchrea,</hi> as the <hi>Paſtor</hi> of <hi>Corinth</hi> by vertue of Communion
+<pb n="91" facs="tcp:105649:61"/>of Churches, act as an Officer in the Church of <hi>Cenchrea.</hi>
+               </p>
+               <p>
+                  <hi>Communion of Church<g ref="char:EOLhyphen"/>es</hi> is ordained for the mutual help of Church<g ref="char:EOLhyphen"/>es, by the benefit and uſe of the <hi>Gifts</hi> that are in any of them, the help whereof another may need; but not for a foundation of the en<g ref="char:EOLhyphen"/>larging, mutual com<g ref="char:EOLhyphen"/>municating, or exerci<g ref="char:EOLhyphen"/>ſing of <hi>Office-power.</hi>
+               </p>
+               <p n="2">2. Church Officers acting in a <hi>Synod</hi> to in<g ref="char:EOLhyphen"/>ſtruct or admoniſh an
+<pb n="92" facs="tcp:105649:62"/>erring Church, act not any <hi>Office-power,</hi> nor do any other thing, than a <hi>Synod</hi> conſiſting of <hi>Bre<g ref="char:EOLhyphen"/>thren</hi> without Officers, might as lawfully do. Neither indeed, do <hi>Of<g ref="char:EOLhyphen"/>ficers</hi> come to, or act in a Synod as <hi>Officers,</hi> but as <hi>delegated</hi> or deputed or ſent by their reſpec<g ref="char:EOLhyphen"/>tive Churches there<g ref="char:EOLhyphen"/>unto: And for <hi>ſuch</hi> an Expreſſion of Churches mutual com<g ref="char:EOLhyphen"/>munion, there is a clear Warrant in the Word. But for Churches to
+<pb n="93" facs="tcp:105649:62"/>communicate their Of<g ref="char:EOLhyphen"/>ficers to each other, or for ordinary Officers to act as <hi>Officers</hi> to more Churches than <hi>that one</hi> to which they are cho<g ref="char:EOLhyphen"/>ſen, there is no War<g ref="char:EOLhyphen"/>rant at all.</p>
+               <p>Obj. 2. <hi>The Church of</hi> Cenchrea <hi>deſires it, and the Church of</hi> Co<g ref="char:EOLhyphen"/>rinth <hi>conſents.</hi>
+               </p>
+               <p>
+                  <hi>Anſ.</hi> 1. I ſtill demand, Where is the Warrant for the deſire of the one, or the conſent of the other? 'Tis cer<g ref="char:EOLhyphen"/>tain
+<pb n="94" facs="tcp:105649:63"/>one Church may poſſibly requeſt, and another agree to that which is un-warrant<g ref="char:EOLhyphen"/>able.</p>
+               <p n="2">2. The <hi>whole</hi> of the Paſtor's Power he hath from <hi>Chriſt</hi> through the Church; and thence he is to be regulated in the exerciſe of that power wholly by the Rule that <hi>Chriſt</hi> hath given about it in his Word, not by the Churches conſent or diſſent at all. For tho the Power that he ex<g ref="char:EOLhyphen"/>erciſeth
+<pb n="95" facs="tcp:105649:63"/>be devolved on him from Chriſt, by the intervention of the Churches acting; yet the whole of the Office<g ref="char:EOLhyphen"/>power that he exerciſ<g ref="char:EOLhyphen"/>eth is Chriſt's, and to be put forth in his Name, and it neither is, nor ever was ſeated in the Church.</p>
+               <p n="3">3. The <hi>Cenchreans</hi> call, and the <hi>Corinthi<g ref="char:EOLhyphen"/>ans</hi> conſent or diſmiſ<g ref="char:EOLhyphen"/>ſion, may tranſlate the Paſtor, and change his relation from <hi>Corinth</hi> to <hi>Cenchrea:</hi> But while
+<pb n="96" facs="tcp:105649:64"/>the relation abides as before, the call or re<g ref="char:EOLhyphen"/>queſt of the one, and the conſent of the o<g ref="char:EOLhyphen"/>ther render not his acting as Paſtor to <hi>Cen<g ref="char:EOLhyphen"/>chrea</hi> any other than irregular: tho perhaps it may render it leſs diſtaſtful to ſome. For the Office-<hi>relation</hi> re<g ref="char:EOLhyphen"/>maining unaltered, the Office-<hi>power</hi> cannot be tranſported from one Object to another, nor enlarged to more Churches: Becauſe Of<g ref="char:EOLhyphen"/>fice-power is limited
+<pb n="97" facs="tcp:105649:64"/>in its extent, both as to the <hi>things</hi> about which, and <hi>perſons</hi> over whom it is to be exer<g ref="char:EOLhyphen"/>ciſed; and cannot by any conſent or agree<g ref="char:EOLhyphen"/>ment of Paſtors and Churches, be in either of thoſe regards exten<g ref="char:EOLhyphen"/>ded beyond, or ſtrait<g ref="char:EOLhyphen"/>ned within the compaſs and bounds ſet and fix<g ref="char:EOLhyphen"/>ed by Chriſt. A Church may as well <hi>abridge</hi> a Paſtor's Power, as <hi>ex<g ref="char:EOLhyphen"/>tend</hi> it further than Chriſt hath done; or extend <hi>another</hi> Officer's
+<pb n="98" facs="tcp:105649:65"/>power to things that Chriſt hath ſecluded from his Office: As for Example; Agree that a <hi>Deacon</hi> ſhall baptize; or that their <hi>Paſtor</hi> ſhall only Teach and not Rule. But as this Agreement and anſwerable Practice would on all hands be invalid and ſinful; ſo is this alledged deſire of <hi>Cenchrea,</hi> and con<g ref="char:EOLhyphen"/>ſent of <hi>Corinth</hi> altoge<g ref="char:EOLhyphen"/>ther irregular, and without Warrant from Chriſt; and thence
+<pb n="99" facs="tcp:105649:65"/>wholly null, and ſuch as makes the Paſtor's acting in the Church of <hi>Cenchrea</hi> no more lawful, than it would be if neither <hi>Cenchrea</hi> deſired it, or <hi>Corinth</hi> agreed to it.</p>
+               <p>Obj. 3. <hi>The Paſtor of</hi> Corinth <hi>brings ſome of his Members with him, ſuppoſe ſix or ſe<g ref="char:EOLhyphen"/>ven or more, to</hi> Cen<g ref="char:EOLhyphen"/>chrea, <hi>and he admini<g ref="char:EOLhyphen"/>ſters the Supper as to his own Church, tho not aſſembled in the uſual
+<pb n="100" facs="tcp:105649:66"/>place, or uſual number, but the</hi> Cenchreans <hi>communicate with them.</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> 1. This <hi>Obje<g ref="char:EOLhyphen"/>ction</hi> and Practice im<g ref="char:EOLhyphen"/>ply a tacit acknow<g ref="char:EOLhyphen"/>ledgment, that the Pa<g ref="char:EOLhyphen"/>ſtor of <hi>Corinth</hi> may not adminiſter the Sup<g ref="char:EOLhyphen"/>per but in his own Church; which is the very thing expreſly ar<g ref="char:EOLhyphen"/>gued for in this Diſ<g ref="char:EOLhyphen"/>pute.</p>
+               <p n="2">2. I demand in whe<g ref="char:EOLhyphen"/>ther part of this com<g ref="char:EOLhyphen"/>pany thus aſſembled, reſides the Church-power
+<pb n="101" facs="tcp:105649:66"/>of receiving or excluding from parti<g ref="char:EOLhyphen"/>cipation in that Ordi<g ref="char:EOLhyphen"/>nance? Suppoſe a per<g ref="char:EOLhyphen"/>ſon be occaſionally preſent that pretends to be a Member of a <hi>Third</hi> Church, ſuppoſe one at <hi>Athens,</hi> or elſe<g ref="char:EOLhyphen"/>where in <hi>Achaia;</hi> but perhaps is reported to be Caſt out, or Guilty of ſome Scandal: whe<g ref="char:EOLhyphen"/>ther muſt the Church of <hi>Cenchrea,</hi> or theſe few Members of the Church of <hi>Corinth</hi> with their Paſtor, give Judg<g ref="char:EOLhyphen"/>ment
+<pb n="102" facs="tcp:105649:67"/>concerning this Perſon's being receiv'd or debarred from the Supper then to be ad<g ref="char:EOLhyphen"/>miniſtred? If it be ſaid, the Members of <hi>Corinth</hi> with their Pa<g ref="char:EOLhyphen"/>ſtor: Let the Church of <hi>Cenchrea</hi> look about them; well they may (I ſuppoſe they will) make (ſome Stand at this new Practice of ſo uncouth an Aſpect; which plainly bereaves them (tho a Church of Chriſt, aſſembled in the Name of Chriſt) of
+<pb n="103" facs="tcp:105649:67"/>power to judge Eccle<g ref="char:EOLhyphen"/>ſiaſtically concerning a Perſon's fitneſs to be received into ſo near communion with them in this holy Ordinance; and tho they appre<g ref="char:EOLhyphen"/>hend his claim to be frivolous or falſe, or unſatisfactoty, yet ties up their hands from ſecluding him, If it be ſaid, this Power re<g ref="char:EOLhyphen"/>ſides in the Church of <hi>Cenchrea;</hi> this very thing makes it evident, that the <hi>Corinthians</hi> Pa<g ref="char:EOLhyphen"/>ſtor's bringing over
+<pb n="104" facs="tcp:105649:68"/>with him thoſe ſix or ſeven Members, is but a falſe colour to var<g ref="char:EOLhyphen"/>niſh over a foul buſi<g ref="char:EOLhyphen"/>neſs, and hide the irre<g ref="char:EOLhyphen"/>gularity of the Pra<g ref="char:EOLhyphen"/>ctice from the more ſimple-hearted that are tender of ſwerving from the Rule. If it be ſaid, it belongs to <hi>both</hi> of them to Judge; I ask again, which is the Church, and which is a Church-Judgment? If it be ſaid, <hi>both;</hi> then here is an Officer of <hi>Corinth</hi> acting as an
+<pb n="105" facs="tcp:105649:68"/>Officer to and in the Church of <hi>Cenchrea;</hi> which is the very thing which the practice ſup<g ref="char:EOLhyphen"/>poſed in the <hi>Objection</hi> is deſigned to avoid: Beſides, <hi>Communion of Churches</hi> is alſo pervert<g ref="char:EOLhyphen"/>ed to <hi>confound</hi> and <hi>jum<g ref="char:EOLhyphen"/>ble</hi> Churches, and make two Bodies that ought to be kept diſtinct, <hi>coa<g ref="char:EOLhyphen"/>leſce</hi> into one.</p>
+            </div>
+            <div n="3" type="point">
+               <pb n="106" facs="tcp:105649:69"/>
+               <head>POINT III. Touching the invaria<g ref="char:EOLhyphen"/>bleneſs of the Rule; and our ſtrict Obliga<g ref="char:EOLhyphen"/>tion to obſerve it, tho with hazard of Suf<g ref="char:EOLhyphen"/>fering.</head>
+               <p n="1">I. Tho inſtituted Worſhip hath under<g ref="char:EOLhyphen"/>gone ſundry alterati<g ref="char:EOLhyphen"/>ons; <hi>that</hi> becoming an <hi>Inſtitution</hi> which ſome<g ref="char:EOLhyphen"/>times was not, and <hi>that</hi> again ceaſing to be one which ſometimes was;
+<pb n="107" facs="tcp:105649:69"/>yet mens ſtrict and punctual obſervance of Inſtitutions, is bound upon their Conſciences by the Second Com<g ref="char:EOLhyphen"/>mandment in all Ge<g ref="char:EOLhyphen"/>nerations, throughout all thoſe ſeveral Chan<g ref="char:EOLhyphen"/>ges that the Wiſdom of God hath made in his own Inſtitutions.</p>
+               <p n="2">II. Our Inſtitutions binding us in the ſtrength of the Second Commandment, as is ſaid, our ſwerving from the Rule of them muſt needs be a Sin a<g ref="char:EOLhyphen"/>gainſt
+<pb n="108" facs="tcp:105649:70"/>gainſt the Moral Law, and particularly, a breach of <hi>that</hi> Com<g ref="char:EOLhyphen"/>mandment; and hence, no more allow'd us to avoid outward Suffer<g ref="char:EOLhyphen"/>ings, than it is allow'd a Man to ſteal, againſt the Eighth Command<g ref="char:EOLhyphen"/>ment, that he may a<g ref="char:EOLhyphen"/>void Poverty. Yea, of the two, the Thief is on the better ſide, both becauſe the commands of the Firſt Table are greater than the Com<g ref="char:EOLhyphen"/>mands of the Second; and becauſe as his Sin
+<pb n="109" facs="tcp:105649:70"/>is againſt a diſpoſal of Providence, darkned perhaps, exceedingly by the interpoſure of much of the iniquity of Man; ſo ours is againſt the expreſs Inſtitution and clear Command<g ref="char:EOLhyphen"/>ment of him who is the Wiſdom of the Fa<g ref="char:EOLhyphen"/>ther, and Lord over all: Beſides, our Suf<g ref="char:EOLhyphen"/>ferings coming for our adherence to the Com<g ref="char:EOLhyphen"/>mands of Chriſt, we have ſignal Promiſes relating to ſuch a Caſe and alſo a rich oppor<g ref="char:EOLhyphen"/>tunity,
+<pb n="110" facs="tcp:105649:71"/>and evident hopes of glorifying Chriſt by our Suffer<g ref="char:EOLhyphen"/>ings, all which ſhould mightily ſtrengthen us to our duty: But none of theſe things can be equally pleaded con<g ref="char:EOLhyphen"/>cerning one under Po<g ref="char:EOLhyphen"/>verty, who is reſtrain<g ref="char:EOLhyphen"/>ed from ſtealing by his Conſcience of the Eighth Command<g ref="char:EOLhyphen"/>ment.</p>
+               <p n="3">III. All <hi>our</hi> Inſti<g ref="char:EOLhyphen"/>tutions in the New Teſtament being in<g ref="char:EOLhyphen"/>graſted on the Second
+<pb n="111" facs="tcp:105649:71"/>Commandment, as the Stock that bears them, no leſs than <hi>theirs</hi> were under the Old Teſtament We are no more allow'd to make bold with <hi>our</hi> Inſtitutions, either in neglecting any of them, or ſwerving from them in any kind or degree, than they under the Old Teſta<g ref="char:EOLhyphen"/>ment might with theirs.</p>
+               <p n="4">IV. The Rule given <hi>us</hi> being no leſs com<g ref="char:EOLhyphen"/>pleat and perfect than
+<pb n="112" facs="tcp:105649:72"/>that which was given <hi>them.</hi> Chriſt <hi>as a Son</hi> being no leſs faithful <hi>over his own Houſe than Moſes</hi> who was <hi>a Ser<g ref="char:EOLhyphen"/>vant,</hi> was in the Houſe of his Maſter and Lord; and <hi>our</hi> Inſti<g ref="char:EOLhyphen"/>tutions being given forth from no leſs Wiſdom and Grace and Authority than <hi>theirs</hi> were: Diffi<g ref="char:EOLhyphen"/>culties and Sufferings can no more relax our obligation ſtrictly to obſerve the Ordinan<g ref="char:EOLhyphen"/>ces
+<pb n="113" facs="tcp:105649:72"/>given us by <hi>Chriſt,</hi> than they could relax their obligation to ob<g ref="char:EOLhyphen"/>ſerve <hi>Moſes</hi> his Ordi<g ref="char:EOLhyphen"/>nances. Yea, we hav<g ref="char:EOLhyphen"/>ing in all theſe things rather the advantage of them, our obligati<g ref="char:EOLhyphen"/>on in matters of <hi>Inſti<g ref="char:EOLhyphen"/>tution</hi> muſt needs be acknowledged in that regard the ſtricter and more indiſpenſible of the two.</p>
+               <p n="5">V. There is nothing truly of <hi>Inſtitution</hi> but is a part of the <hi>Name</hi> of Chriſt, and part of the
+<pb n="114" facs="tcp:105649:73"/>the <hi>Words</hi> of Chriſt, no leſs properly and really than the moſt glorious Myſteries of Faith, or moſt funda<g ref="char:EOLhyphen"/>mental Points of Doc<g ref="char:EOLhyphen"/>trine. But we muſt not in any kind <hi>be a<g ref="char:EOLhyphen"/>ſhamed</hi> of any <hi>of his words,</hi> nor in any de<g ref="char:EOLhyphen"/>gree or ſort <hi>deny</hi> any thing of <hi>his Name;</hi> no, tho our Lot be to live in an <hi>adulterous and ſin<g ref="char:EOLhyphen"/>ful Generation,</hi> and in thoſe places and times where the not deny<g ref="char:EOLhyphen"/>ing of them may coſt
+<pb n="115" facs="tcp:105649:73"/>us our lives, <hi>Mark</hi> 8. 38 <hi>Rev.</hi> 2.13.</p>
+               <p n="6">VI. The <hi>leaſt</hi> and the <hi>greateſt</hi> matters of <hi>Inſtitution</hi> are injoin'd us alike indiſpenſably. We may therefore as lawfully lay aſide <hi>all,</hi> as lay aſide any Inſti<g ref="char:EOLhyphen"/>tution to avoid Suffer<g ref="char:EOLhyphen"/>ings.</p>
+               <p n="7">VII. One end of the Lord's giving ſo exact a Rule in mat<g ref="char:EOLhyphen"/>ters of Inſtitution, is for the <hi>Tryal</hi> of our Obedience and Loyal<g ref="char:EOLhyphen"/>ty: And his bringing
+<pb n="116" facs="tcp:105649:74"/>Difficulties and Suffer<g ref="char:EOLhyphen"/>ings upon us for ob<g ref="char:EOLhyphen"/>ſerving what he hath commanded us, is alſo that he might take the more <hi>thorow</hi> and ſo<g ref="char:EOLhyphen"/>lemn Tryal of our Loyalty, Love and Faithfulneſs to him. It is therefore impoſſi<g ref="char:EOLhyphen"/>ble that Difficulties and Sufferings ſhould alter that Rule in mat<g ref="char:EOLhyphen"/>ters of Inſtitution, or give us any Diſpenſa<g ref="char:EOLhyphen"/>tion as to our cloſe ob<g ref="char:EOLhyphen"/>ſervance thereof.</p>
+               <p>Let me anſwer ſome
+<pb n="117" facs="tcp:105649:74"/>
+                  <hi>Objections</hi> hence; and I ſhall proceed to the next <hi>Queſtion.</hi>
+               </p>
+               <p>Obj. 1. <hi>The Church of</hi> Cenchrea <hi>deſires the Ordinance of the Supper earneſtly, and ſtands in great need thereof for the ſtrengthening of their Faith in difficult times, and warming their love to Chriſt and one ano<g ref="char:EOLhyphen"/>ther; being alſo in the more danger of ſcatter<g ref="char:EOLhyphen"/>ing, in that they are de<g ref="char:EOLhyphen"/>prived of a Paſtor of their own. Surely Chriſt
+<pb n="118" facs="tcp:105649:75"/>hath left ſome way for his Church to enjoy that Ordinance, in ſuch a time when their need of it is ſingularly great: They muſt needs there<g ref="char:EOLhyphen"/>fore, as the Caſe is with them, either go without it to their great grief and wounding, or have it ad<g ref="char:EOLhyphen"/>miniſtred by one that is no</hi> Teaching-Officer, <hi>borrow of</hi> Corinth <hi>their Paſtor.</hi>
+               </p>
+               <p>
+                  <hi>Anſ.</hi> 1. <hi>Cenchrea</hi> be<g ref="char:EOLhyphen"/>ing deprived of a Pa<g ref="char:EOLhyphen"/>ſtor, they muſt furniſh themſelves with one;
+<pb n="119" facs="tcp:105649:75"/>every Church being bound in Conſcience to provide it ſelf with all the ſtanding Ordi<g ref="char:EOLhyphen"/>nances of Chriſt, as they will anſwer caſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ng off Chriſt's Authority that hath appointed them, and not be guilty of deſpiſing his love who gives them as ſignal Pledges thereof, and of ſinning againſt their own Souls, by neglect<g ref="char:EOLhyphen"/>ing a ſpecial Ordinance for the Ediſica<g ref="char:EOLhyphen"/>tion and Salvation of them.</p>
+               <p n="2">
+                  <pb n="120" facs="tcp:105649:76"/>2. 'Tis ſad when a Church is deprived of any Ordinance, eſpeci<g ref="char:EOLhyphen"/>ally that of Teaching Elders, and if God do indeed withhold them from enjoying one, it ought to be lookt up<g ref="char:EOLhyphen"/>on as a ſore Rebuke from Chriſt, carrying in it no leſs than a Threatning to remove his Candleſtick from them, and as a kind of partial Excommunica<g ref="char:EOLhyphen"/>ting of them inflicted by Chriſt himſelf from Heaven, and it is there<g ref="char:EOLhyphen"/>fore
+<pb n="121" facs="tcp:105649:76"/>a ſore and ſolemn teſtifying againſt ſuch a Church by the Lord.</p>
+               <p n="3">3. This Judgment is much the heavier when it befalls a Church in <hi>ſuch a Day</hi> as the <hi>Objection</hi> points at; yet Affliction is to be choſen before Sin: And the Affliction of being deprived of that ſweet and precious Ordinance of the Sup<g ref="char:EOLhyphen"/>per, in ſuch a time of ſpecial need of it, (tho very grievous to a gracious Spirit, yet)
+<pb n="122" facs="tcp:105649:77"/>had better be born, than the Ordinance be ſcrambled after in an unlawful way.</p>
+               <p n="4">4. The Church of <hi>Cenchrea</hi> may as law<g ref="char:EOLhyphen"/>fully have it admini<g ref="char:EOLhyphen"/>ſtred by a <hi>non-Officer,</hi> as by the Officer of <hi>another</hi> Church. For the Paſtor of <hi>Corinth</hi> is no other than a non-Officer to the Church of <hi>Cenchrea;</hi> and there<g ref="char:EOLhyphen"/>fore if the one be ir<g ref="char:EOLhyphen"/>regular and unlawful (as the <hi>Objection</hi> ſeems to grant it is) ſo is
+<pb n="123" facs="tcp:105649:77"/>the other alſo no leſs.</p>
+               <p n="5">5. This <hi>Objection</hi> carries a Face as if the Church at <hi>Cenchrea</hi> could well enough content themſelves without a Paſtor, could they but get the Lord's Supper by any ſcamb<g ref="char:EOLhyphen"/>ling ſhift, or could they ſatisfie themſelves in going without it: But ſurely this is an evil frame on many ac<g ref="char:EOLhyphen"/>counts, and argues both little Conſcience of walking in <hi>all</hi> the Commands and Ordi<g ref="char:EOLhyphen"/>nances
+<pb n="124" facs="tcp:105649:78"/>nances of Chriſt; and alſo that ſuch a Church aims more at the keep<g ref="char:EOLhyphen"/>ing up the Form and Name of a Church, than at <hi>fulfilling</hi> their Duty to their own Souls.</p>
+               <p>Obj. 2. <hi>The Church is</hi> poor, <hi>and our Rulers are ſo fan from giving encouragment to Men of their Way,</hi>
+                  <note place="margin">This was writ<g ref="char:EOLhyphen"/>ten when the Meetings of <hi>Diſſenters</hi> were in danger of being difturb'd</note> 
+                  <hi>that they are rather ſe<g ref="char:EOLhyphen"/>vere againſt them; from
+<pb n="125" facs="tcp:105649:78"/>whence it comes to paſs both that the Church is under an impoſſibility of maintaining, and conſe<g ref="char:EOLhyphen"/>quently of furniſhing themſelves with a Paſtor of their own, and alſo hath little hopes of any peaceable and conti<g ref="char:EOLhyphen"/>nued enjoyment of him with them, if they had one.</hi>
+               </p>
+               <p>
+                  <hi>Anſwer</hi> 1. If the Church of <hi>Cenchrea</hi> can meet with the Pa<g ref="char:EOLhyphen"/>ſtor of the Church of <hi>Corinth</hi> to receive the Lord's Supper (as it
+<pb n="126" facs="tcp:105649:79"/>ſeems they can) they may as well meet with a Paſtor of their own, and enjoy his labours amongſt them, accord<g ref="char:EOLhyphen"/>ing to the Rule and Order of the Goſpel.</p>
+               <p n="2">2. If the Church of <hi>Cenchrea</hi> be not defec<g ref="char:EOLhyphen"/>tive in their Duty, but lay out themſelves, as the Lord requires, for the obtaining of a Pa<g ref="char:EOLhyphen"/>ſtor of their own, and yet cannot obtain one; they may and ought to wait on the Lord in Faith and Hope that
+<pb n="127" facs="tcp:105649:79"/>in due time he will provide them of a Pa<g ref="char:EOLhyphen"/>ſtor: And in the mean time they muſt <hi>keep his way, Pſal.</hi> 37.34. bearing their want of a Paſtor as their af<g ref="char:EOLhyphen"/>fliction from the Lord, which they muſt not ſeek to eaſe themſelves of by ſinful and irre<g ref="char:EOLhyphen"/>gular ways.</p>
+               <p n="3">3. It is one ſpecial thing wherein Chriſt is taking a Tryal of his Churches in theſe Nations at this day; whether they will be
+<pb n="128" facs="tcp:105649:80"/>at the charge of main<g ref="char:EOLhyphen"/>taining all his Ordi<g ref="char:EOLhyphen"/>nances and Officers a<g ref="char:EOLhyphen"/>mongſt them, without help therein from the Civil Magiſtrate; or whether they will not rather be without them? And as it is a ſpecial Particular wherein the Tryal of the preſent Providence lies; So it is that wherein Churches are in the more danger of failing, becauſe it is a part of the Yoke of Chriſt, which the ge<g ref="char:EOLhyphen"/>nerality
+<pb n="129" facs="tcp:105649:80"/>of the Church<g ref="char:EOLhyphen"/>es in theſe Nations have not put their Necks under <hi>hereto<g ref="char:EOLhyphen"/>fore;</hi> whereas all even the <hi>pooreſt</hi> Churches that we read of in the Apoſtles times, did from their <hi>firſt</hi> Conſti<g ref="char:EOLhyphen"/>tution furniſh them<g ref="char:EOLhyphen"/>ſelves with Officers without any help therein from the Civil Magiſtrate, who was in many regards more ſevere againſt them, than through the favour of God ours are
+<pb n="130" facs="tcp:105649:81"/>to us. See 1 <hi>Theſſ.</hi> 5.12. with <hi>chap.</hi> 1.6. and 2.14. and 2 <hi>Theſſ.</hi> 1.4. This Church was one of the Churches of <hi>Macedonia,</hi> ſpoken of 2 <hi>Cor.</hi> 8.1, 2, 3.</p>
+               <p n="4">4. If the Church of <hi>Cenchrea</hi> through extream Poverty can<g ref="char:EOLhyphen"/>not of themſelves pro<g ref="char:EOLhyphen"/>vide a Paſtor of their own, the Lord hath not left them without direction and relief in this caſe. In which they ought both to ſearch the Word themſelves,
+<pb n="131" facs="tcp:105649:81"/>and alſo to conſult o<g ref="char:EOLhyphen"/>ther Churches, whoſe Duty it is not only to hold forth Light to a Siſter-Church in the dark, but alſo to yield forth outward Sup<g ref="char:EOLhyphen"/>plies to a Siſter-Church in diſtreſs; which is a lovely exerciſe and fruit of mutual Cha<g ref="char:EOLhyphen"/>rity and <hi>Communion</hi> between <hi>Sifter-Churches,</hi> and <hi>that</hi> which hath unqueſtionable Warrant in the Word; whereas <hi>this</hi> of bor<g ref="char:EOLhyphen"/>rowing and lending an
+<pb n="132" facs="tcp:105649:82"/>Officer to do a Caſt of his Office in another Church beſides his own, is a thing un<g ref="char:EOLhyphen"/>heard of in the Scrip<g ref="char:EOLhyphen"/>ture, and never prac<g ref="char:EOLhyphen"/>tiſed by the Primitive Churches under the Apoſtles direction.</p>
+               <p>Obj. 3. <hi>Difficult times produce</hi> unuſual <hi>Caſes and Extremities, and that which in an</hi> ordinary <hi>caſe would not be lawful, is allowable in</hi> ſuch <hi>Caſes and Times.</hi>
+               </p>
+               <p>
+                  <pb n="133" facs="tcp:105649:82"/>
+                  <hi>Anſw.</hi> 1. Difficult times do indeed pro<g ref="char:EOLhyphen"/>duce unuſual afflicti<g ref="char:EOLhyphen"/>ons on Churches, and make their Temptati<g ref="char:EOLhyphen"/>on to <hi>depart</hi> from the the Rule ſo much the greater, yea too too of<g ref="char:EOLhyphen"/>ten cauſe breaches and miſcarriages amongſt them; But no difficul<g ref="char:EOLhyphen"/>ty or ſeverity of the Times can <hi>alter</hi> the Rule given by Chriſt unto his Churches.</p>
+               <p n="2">2. The Primitive Churches of the New Teſtament, were un<g ref="char:EOLhyphen"/>der
+<pb n="134" facs="tcp:105649:83"/>as much difficulty as any Churches in this Land can pretend to be in; yet they kept cloſe to the <hi>Rule,</hi> nor do we find in them a<g ref="char:EOLhyphen"/>ny ſuch practice as this, nor any thing that may countenance it in the Sacred Records concerning them.</p>
+               <p n="3">3. Difficulty of the Times calls indeed for the exerciſe of ſuita<g ref="char:EOLhyphen"/>ble Graces, and alſo of Pru<g ref="char:EOLhyphen"/>dence: But Pru<g ref="char:EOLhyphen"/>dence hath its ſcope only in ſuch things in
+<pb n="135" facs="tcp:105649:83"/>Church-Worſhip as are no part of the Worſhip, but only cir<g ref="char:EOLhyphen"/>cumſtances thereof, re<g ref="char:EOLhyphen"/>lated to Worſhip not as it is Worſhip, but as an action performed by Men, all whoſe act<g ref="char:EOLhyphen"/>ings muſt, have time and place for them. And thence the things wherein Prudence may interpoſe to <hi>vary,</hi> are ſuch things about which there is no poſi<g ref="char:EOLhyphen"/>tive Divine <hi>Inſtitution.</hi> When Place and Time come under an <hi>Inſtitu<g ref="char:EOLhyphen"/>tion</hi>
+                  <pb n="136" facs="tcp:105649:84"/>(as for Example, the Temple and their Feaſts under the Old Teſtament, and the Firſt Day of the Week in the New) there Prudence may not alter them; nor may we on ſuch an ac<g ref="char:EOLhyphen"/>count ſwerve from the Rule; for they become Parts of Worſhip.</p>
+               <p n="4">4. The <hi>Adminiſtra<g ref="char:EOLhyphen"/>tor</hi> of the Supper is more than a common <hi>circumſtance</hi> of the Worſhip performed in that Ordinance. For
+<pb n="137" facs="tcp:105649:84"/>he ſanctifies the Ele<g ref="char:EOLhyphen"/>ments, as the Temple or Altar did their Sa<g ref="char:EOLhyphen"/>crifices and Gifts; be<g ref="char:EOLhyphen"/>ing the <hi>Substitute</hi> of Chriſt in the admini<g ref="char:EOLhyphen"/>ſtration of that Ordi<g ref="char:EOLhyphen"/>nance, appointed there<g ref="char:EOLhyphen"/>unto by the inſtitution of the Lord. And of this there ſeems to be an acknowledgment and ſenſe, in the prac<g ref="char:EOLhyphen"/>tice pleaded againſt in this Diſpute: For why elſe doth the Church of <hi>Cenchrea</hi> ſeek fot the Officer of the
+<pb n="138" facs="tcp:105649:85"/>Church of <hi>Corinth,</hi> and not take any of their own private Members for this work?</p>
+               <p n="5">5. 'Tis moſt true, <hi>Affirmative</hi> Commands do not bind us to be always actually ful<g ref="char:EOLhyphen"/>filling of them; yet <hi>Negative</hi> Commands reſtrain us at all times from tranſgreſſing of them. And therefore tho the Church be not bound to be every day celebrating the Lord's Supper, yet they are bound when-ever they do
+<pb n="139" facs="tcp:105649:85"/>do celebrate it, to do it in no other manner than according to the <hi>Rule</hi> given them by Chriſt the Lord; whoſe Rule is, that their <hi>own</hi> and not <hi>another Church<g ref="char:EOLhyphen"/>es</hi> Officer adminiſter it amongſt them.</p>
+               <p>I ſhall add no more on this Queſtion, only that I know not that I am <hi>ſingular</hi> in any thing that I have writ<g ref="char:EOLhyphen"/>ten; ſure I am, that in the ſum and main of the caſe, I have the generality of the Mi<g ref="char:EOLhyphen"/>niſters
+<pb n="140" facs="tcp:105649:86"/>and Churches of the <hi>Congregational Perſuaſion</hi> concurring with me. As an evi<g ref="char:EOLhyphen"/>dence thereof, let me direct to <hi>one</hi> Teſtimo<g ref="char:EOLhyphen"/>ny, and tranſcribe <hi>ano<g ref="char:EOLhyphen"/>ther;</hi> not doubting but had I my Books and Papers about me, I could eaſily add many more. The firſt Te<g ref="char:EOLhyphen"/>ſtimony is Dr. <hi>Owen</hi> in his <hi>Brief Inſtruction in the Worſhip of God,</hi> &amp;c. <hi>by way of Question and Anſwer. Queſt.</hi> 26. <hi>page</hi> 118, 119, 120, 121,
+<pb n="141" facs="tcp:105649:86"/>122, 123. Where he is moſt expreſs againſt it, and gives ſundry Arguments to confirm his Judgment. The other Teſtimony is of <hi>all</hi> the Officers and Meſſengers of the <hi>Con<g ref="char:EOLhyphen"/>gregational</hi> Churches in the Declaration of their Faith and Order, agreed on and Publiſh<g ref="char:EOLhyphen"/>ed <hi>Anno</hi> 1658. The 16th <hi>Propoſition</hi> con<g ref="char:EOLhyphen"/>cerning the Inſtitution of Churches, <hi>&amp;c.</hi> runs thus, <hi>A Church furniſh<g ref="char:EOLhyphen"/>ed with Officers (accor<g ref="char:EOLhyphen"/>ding
+<pb n="142" facs="tcp:105649:87"/>to the mind of Chriſt) hath full power to administer all his Or<g ref="char:EOLhyphen"/>dinances, and where there is want of any one or more Officers required, that Officer, or thoſe which are in the Church may adminiſter all the Ordinances proper to their particular Duty and Offices; But where there are no</hi> Teaching <hi>Officers, none may admi<g ref="char:EOLhyphen"/>nister the Seals, nor can the Church authorize a<g ref="char:EOLhyphen"/>ny ſo to do.</hi>
+               </p>
+               <p>
+                  <pb n="143" facs="tcp:105649:87"/>
+                  <hi>QUESTION II.</hi> May a Member of the Church at <hi>Cenchrea</hi> partake of the Lord's Supper adminiſtred there by the Pastor of the Church of <hi>Corinth,</hi> eſpecially him<g ref="char:EOLhyphen"/>ſelf not being clear, whether the practice of the Paſtor of <hi>Corinth</hi> in this parti<g ref="char:EOLhyphen"/>cular be Warrantable?</p>
+               <p>
+                  <pb n="144" facs="tcp:105649:88"/>
+                  <hi>Anſ.</hi> No: Whether lie be ſatisfied, or ſcru<g ref="char:EOLhyphen"/>pulous about the War<g ref="char:EOLhyphen"/>rantableneſs of the act of the Paſtor of <hi>Cornith,</hi> he may not participate of the Lord's Supper adminiſtred by him in the Church of <hi>Cen<g ref="char:EOLhyphen"/>chrea.</hi>
+               </p>
+               <p n="1">1. There is ſuch a near alliance and ne<g ref="char:EOLhyphen"/>ceſſary connexion by the appointment of God, between the per<g ref="char:EOLhyphen"/>ſon adminiſtring, and the orderly admini<g ref="char:EOLhyphen"/>ſtration of this Ordi<g ref="char:EOLhyphen"/>nance,
+<pb n="145" facs="tcp:105649:88"/>that I cannot partake of it, but I con<g ref="char:EOLhyphen"/>tract upon my ſelf the guilt of his unlawful adminiſtration. If a Juſtice of the Peace in <hi>Middleſex</hi> ſend out his Warrant to fetch me before him in <hi>Eſſex,</hi> and it being there ſer<g ref="char:EOLhyphen"/>ved upon me I ſubmit to it and ſuffer my ſelf to be carried before him by vertue of it, I become hereby guilty of compliance with his arrogating Authority which the King hath
+<pb n="146" facs="tcp:105649:89"/>not given him. So it is in this caſe, and the reaſon thereof is, that neceſſary connexion which there is in both caſes, between the act that is done, and the perſon's rightful au<g ref="char:EOLhyphen"/>thority that doth it.</p>
+               <p n="2">2. My communica<g ref="char:EOLhyphen"/>ting evidently holds forth an approbation of his power or right to adminiſter: And ſo it is a Sin againſt that Charity which I owe to him, for I confirm and ſtrengthen him in
+<pb n="147" facs="tcp:105649:89"/>that his Error. It is alſo a Sin againſt the Charity that I owe to the Church by a near<g ref="char:EOLhyphen"/>er and ſpecial Bond, being in Fellowſhip with them, and one of them; for this my communicating doth alſo incourage them in the Error of their way. It is true indeed, if his acting were ſuch as might be lawfully <hi>done</hi> by him, and <hi>deſired</hi> by them, on ſome <hi>other</hi> grounds; then, tho the true and <hi>juſtifying</hi>
+                  <pb n="148" facs="tcp:105649:90"/>grounds of it were miſ<g ref="char:EOLhyphen"/>taken both by them and him, then I ſay, my bare Preſence and com<g ref="char:EOLhyphen"/>municating with them could not be juſtly in<g ref="char:EOLhyphen"/>terpreted as a ſinful in<g ref="char:EOLhyphen"/>couraging of them; but there being <hi>no</hi> ground that renders his act lawful, the caſe is otherwiſe.</p>
+               <p>Obj. <hi>But ſundry</hi> holy Saints <hi>have expe<g ref="char:EOLhyphen"/>rienced the gracious pre<g ref="char:EOLhyphen"/>ſence of Chriſt, ſpeaking peace, and Strengthening
+<pb n="149" facs="tcp:105649:90"/>their Faith and Grace in the Lord's Supper ſo adminiſtred; and there<g ref="char:EOLhyphen"/>fore it is his Ordinance, and rightly adminiſtred, and I may communicate in it.</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> 1. Tho the error of the Admini<g ref="char:EOLhyphen"/>ſtration argued againſt in theſe Papers, ſhould not be ſo deep as to make it <hi>no Ordinance</hi> of Chriſt; yet it may be ſuch, and doubtleſs is, as to make my commu<g ref="char:EOLhyphen"/>nicating therein <hi>unlaw<g ref="char:EOLhyphen"/>ful.</hi> The Croſs joined
+<pb n="150" facs="tcp:105649:91"/>to Baptiſm doth not make it <hi>Null,</hi> yet it makes it <hi>unlawful</hi> for me to receive it ſo ad<g ref="char:EOLhyphen"/>miniſtred. Kneeling at the Supper deſtroys it not from being Chriſt's Ordinance, yet makes it unlawful for me to receive the Sup<g ref="char:EOLhyphen"/>per at all if I cannot receive it otherwiſe than Kneeling. In the caſe under debate, nei<g ref="char:EOLhyphen"/>ther the lawfulneſs of the Paſtor of <hi>Corinth's</hi> adminiſtring in <hi>Cen<g ref="char:EOLhyphen"/>chrea,</hi> nor the lawful<g ref="char:EOLhyphen"/>neſs
+<pb n="151" facs="tcp:105649:91"/>of a Member of <hi>Cenchrea</hi>'s communica<g ref="char:EOLhyphen"/>ting in the Supper ſo adminiſtred can be made good, tho it ſhould be granted to remain Chriſt's Ordi<g ref="char:EOLhyphen"/>nance, notwithſtanding the Error that is in the Adminiſtration.</p>
+               <p n="2">2. Chriſt may be experienced graciouſly preſent to a Believer's Soul in an adminiſtra<g ref="char:EOLhyphen"/>tion which it is not lawful for the Believer to partake of; yea, which indeed is no
+<pb n="152" facs="tcp:105649:92"/>Ordinance of Chriſt. Doubtleſs many good Souls, who in former Times have through infirmity, and want of Light, conſcientiouſly uſed Common-Prayer, or obſerved the Holy<g ref="char:EOLhyphen"/>days, have had expe<g ref="char:EOLhyphen"/>rience of ſpecial and ſweet communion with Chriſt, both in the one and in the other: yet <hi>neither</hi> are Chriſt's Ordinance; nor will thit Experience war<g ref="char:EOLhyphen"/>rant the lawfulneſs of the uſe and obſervati<g ref="char:EOLhyphen"/>on
+<pb n="153" facs="tcp:105649:92"/>on thereof: For the Lord therein had not any reſpect to the one or the other as any Ordinance of his; but of his great Goodneſs over-look'd the infir<g ref="char:EOLhyphen"/>mity and accepted the ſincerity of his Ser<g ref="char:EOLhyphen"/>vants, having reſpect to the Graces in their Hearts that were ſtir<g ref="char:EOLhyphen"/>red up and awakened to exerciſe, by the ap<g ref="char:EOLhyphen"/>prehenſion (thoa miſ<g ref="char:EOLhyphen"/>taken one) of an Or<g ref="char:EOLhyphen"/>dinance of his; He be<g ref="char:EOLhyphen"/>ing ſo abundant in
+<pb n="154" facs="tcp:105649:93"/>Goodneſs and Truth, that he oftentimes does <hi>that</hi> for us in a way of Grace, which we could not challenge from him by vertue of any expreſs Promiſe of his; He then by the greatneſs of our Error magnifying his own Grace the more.</p>
+               <p n="3">3. The deſign of theſe Papers is not to bereave <hi>any</hi> of their precious Experiences, nor call them in Que<g ref="char:EOLhyphen"/>ſtion (yet we ſhould not build more on
+<pb n="155" facs="tcp:105649:93"/>them than they will bear) but to lave us from an Error in Opi<g ref="char:EOLhyphen"/>nion and Practice, of a very ſad aſpect and e<g ref="char:EOLhyphen"/>vil conſequences, if it ſhould once ſind gene<g ref="char:EOLhyphen"/>ral entertainment in the Churches: But I had rather leave them to the Reader's own Thoughts than put my ſelf to the trouble of declaring them.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <head>
+               <hi>Books Newly Printed</hi> for Nath. Hiller, at the <hi>Princes Arms</hi> in <hi>Lea<g ref="char:EOLhyphen"/>den-Hall Street,</hi> over againſt <hi>St. Mary Ar.</hi>
+            </head>
+            <p>THE <hi>Divine Inſtitu<g ref="char:EOLhyphen"/>tion</hi> of <hi>Congrega<g ref="char:EOLhyphen"/>tional Churches,</hi> Miniſtry and Ordinances, Aſſerted and Proved from the Word of God. To which is added,</p>
+            <p>A Diſcourſe concerning Unction, and Waſhing of Feet. Proving, That they be not Inſtituted Sacraments, or Ordinances in the Churches. Both by <hi>Haac Chauncy,</hi> M.A.</p>
+            <p>
+               <hi>Pietas in Patriam:</hi> The Life of his Excellency <hi>Sir William Phips,</hi> Knt. Late Captain General and Governour of <hi>New-Eng<g ref="char:EOLhyphen"/>land,</hi> Containing the Memo<g ref="char:EOLhyphen"/>rable Changes <hi>undergone,</hi> and Actions <hi>performed</hi> by him.</p>
+            <pb facs="tcp:105649:94"/>
+         </div>
+      </back>
+   </text>
+</TEI>
